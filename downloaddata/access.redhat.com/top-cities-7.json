@@ -1,0 +1,103 @@
+{
+      "name":"top-cities-realtime",
+      "totals":{
+
+      },
+      "meta":{
+         "name":"Top Cities (Live)",
+         "description":"Top cities for active onsite users."
+      },
+      "taken_at":"2016-04-27T12:48:04.813Z",
+      "query":{
+         "metrics":[
+            "rt:activeUsers"
+         ],
+         "sort":[
+            "-rt:activeUsers"
+         ],
+         "max-results":10000,
+         "dimensions":"rt:city"
+      },
+      "data":[
+         {
+            "city":"Tokyo  [Japan]",
+            "active_visitors":"4212.0"
+         },
+         {
+            "city":"Bangalore  [India]",
+            "active_visitors":"2176.0"
+         },
+         {
+            "city":"London  [United Kingdom]",
+            "active_visitors":"1278.0"
+         },
+         {
+            "city":"Kawasaki  [Japan]",
+            "active_visitors":"1014.0"
+         },
+         {
+            "city":"Seoul  [Korea-South]",
+            "active_visitors":"982.0"
+         },
+         {
+            "city":"Singapore  [Singapore]",
+            "active_visitors":"965.0"
+         },
+         {
+            "city":"Mumbai  [India]",
+            "active_visitors":"956.0"
+         },
+         {
+            "city":"New York  [United States]",
+            "active_visitors":"918.0"
+         },
+         {
+            "city":"San Jose  [United States]",
+            "active_visitors":"907.0"
+         },
+         {
+            "city":"Paris  [France]",
+            "active_visitors":"822.0"
+         },
+         {
+            "city":"Pune  [India]",
+            "active_visitors":"818.0"
+         },
+         {
+            "city":"Chicago  [United States]",
+            "active_visitors":"811.0"
+         },
+         {
+            "city":"Hong Kong  [Hong Kong]",
+            "active_visitors":"803.0"
+         },
+         {
+            "city":"Hyderabad  [India]",
+            "active_visitors":"766.0"
+         },
+         {
+            "city":"Moscow  [Russian Federation]",
+            "active_visitors":"746.0"
+         },
+         {
+            "city":"San Francisco  [United States]",
+            "active_visitors":"701.0"
+         },
+         {
+            "city":"Madrid  [Spain]",
+            "active_visitors":"618.0"
+         },
+         {
+            "city":"Osaka  [Japan]",
+            "active_visitors":"612.0"
+         },
+         {
+            "city":"Sao Paulo  [Brazil]",
+            "active_visitors":"576.0"
+         },
+         {
+            "city":"Chennai  [India]",
+            "active_visitors":"574.0"
+         }
+      ]
+   }

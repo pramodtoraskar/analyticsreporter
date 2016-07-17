@@ -1,0 +1,103 @@
+{
+      "name":"top-countries-realtime",
+      "totals":{
+
+      },
+      "meta":{
+         "name":"Top Cities",
+         "description":"Top countries for active onsite users."
+      },
+      "taken_at":"2016-04-27T15:50:05.953Z",
+      "query":{
+         "metrics":[
+            "rt:activeUsers"
+         ],
+         "sort":[
+            "-rt:activeUsers"
+         ],
+         "max-results":10000,
+         "dimensions":"rt:country"
+      },
+      "data":[
+         {
+            "country":"United States",
+            "active_visitors":"29757.0"
+         },
+         {
+            "country":"Japan",
+            "active_visitors":"9526.0"
+         },
+         {
+            "country":"India",
+            "active_visitors":"8303.0"
+         },
+         {
+            "country":"United Kingdom",
+            "active_visitors":"4380.0"
+         },
+         {
+            "country":"Germany",
+            "active_visitors":"4050.0"
+         },
+         {
+            "country":"France",
+            "active_visitors":"2828.0"
+         },
+         {
+            "country":"Canada",
+            "active_visitors":"2318.0"
+         },
+         {
+            "country":"Brazil",
+            "active_visitors":"2267.0"
+         },
+         {
+            "country":"China",
+            "active_visitors":"1958.0"
+         },
+         {
+            "country":"Spain",
+            "active_visitors":"1764.0"
+         },
+         {
+            "country":"Italy",
+            "active_visitors":"1681.0"
+         },
+         {
+            "country":"Australia",
+            "active_visitors":"1665.0"
+         },
+         {
+            "country":"Russian Federation",
+            "active_visitors":"1601.0"
+         },
+         {
+            "country":"Korea - South",
+            "active_visitors":"1253.0"
+         },
+         {
+            "country":"Netherlands",
+            "active_visitors":"1173.0"
+         },
+         {
+            "country":"Poland",
+            "active_visitors":"1131.0"
+         },
+         {
+            "country":"Singapore",
+            "active_visitors":"1013.0"
+         },
+         {
+            "country":"Taiwan",
+            "active_visitors":"943.0"
+         },
+         {
+            "country":"Mexico",
+            "active_visitors":"875.0"
+         },
+         {
+            "country":"Hong Kong",
+            "active_visitors":"868.0"
+         }
+      ]
+   }

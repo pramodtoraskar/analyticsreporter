@@ -1,0 +1,103 @@
+{
+			      "name":"top-cities-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Bangalore  [India]",
+			            "active_visitors":"83.0"
+			         },
+			         {
+			            "city":"London  [United Kingdom]",
+			            "active_visitors":"50.0"
+			         },
+			         {
+			            "city":"Mumbai  [India]",
+			            "active_visitors":"48.0"
+			         },
+			         {
+			            "city":"Singapore  [Singapore]",
+			            "active_visitors":"45.0"
+			         },
+			         {
+			            "city":"Pune  [India]",
+			            "active_visitors":"45.0"
+			         },
+			         {
+			            "city":"Delhi  [India]",
+			            "active_visitors":"27.0"
+			         },
+			         {
+			            "city":"Hyderabad  [India]",
+			            "active_visitors":"26.0"
+			         },
+			         {
+			            "city":"Gurgaon  [India]",
+			            "active_visitors":"25.0"
+			         },
+			         {
+			            "city":"New York  [United States]",
+			            "active_visitors":"24.0"
+			         },
+			         {
+			            "city":"Houston  [United States]",
+			            "active_visitors":"24.0"
+			         },
+			         {
+			            "city":"Chennai  [India]",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "city":"Raleigh  [United States]",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "city":"San Jose  [United States]",
+			            "active_visitors":"18.0"
+			         },
+			         {
+			            "city":"Stockholm  [Sweden]",
+			            "active_visitors":"18.0"
+			         },
+			         {
+			            "city":"Hong Kong  [Hong Kong]",
+			            "active_visitors":"18.0"
+			         },
+			         {
+			            "city":"Atlanta  [United States]",
+			            "active_visitors":"17.0"
+			         },
+			         {
+			            "city":"Warsaw  [Poland]",
+			            "active_visitors":"17.0"
+			         },
+			         {
+			            "city":"Sydney  [Australia]",
+			            "active_visitors":"15.0"
+			         },
+			         {
+			            "city":"Frankfurt Am Main  [Germany]",
+			            "active_visitors":"15.0"
+			         },
+			         {
+			            "city":"Washington  [United States]",
+			            "active_visitors":"15.0"
+			         }
+			      ]
+			   }

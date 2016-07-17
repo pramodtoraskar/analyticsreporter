@@ -1,0 +1,2237 @@
+
+module.exports = {
+		   "top_downloads_30_days":{
+			      "name":"top_downloads_30_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Downloads Yesterday",
+			         "description":"Top downloads yesterday"
+			      },
+			      "taken_at":"2016-04-18T08:10:16.228Z",
+			      "query":{
+			         "metrics":[
+			            "ga:totalEvents"
+			         ],
+			         "sort":[
+			            "-ga:totalEvents"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":100,
+			         "dimensions":"ga:pageTitle,ga:eventLabel,ga:pagePath",
+			         "filters":"ga:eventCategory=~ownload;ga:pagePath!~(usps.com).*/(?i)(zip|doc).*",
+			         "start-date":"yesterday",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "data":[
+
+			      ]
+			   },
+			   "browsers_30_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date",
+			            "-ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:browser",
+			         "filters":"ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Browsers",
+			         "description":"90 days of visits broken down by browser for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:07.332Z",
+			      "name":"browsers_30_days",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":1974241511,
+			         "browser":{
+			               "Chrome":41497,
+			               "Firefox":19783,
+			               "Internet Explorer":8420,
+			               "Safari":4768,
+			               "UC Web":585,
+			               "Other":433,
+			               "Opera":346,
+			               "Yandex":42,
+			               "BlackBerry":37,
+			               "Amazon":20,
+			               "Nokia":8,
+			               "Netscape":1
+			            }
+			      }
+			   },
+			   "browsers_yesterday":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date",
+			            "-ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:browser",
+			         "filters":"ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Browsers",
+			         "description":"90 days of visits broken down by browser for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:07.332Z",
+			      "name":"browsers_yesterday",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":1974241511,
+			         "browser":{
+			               "Chrome":1686,
+			               "Firefox":821,
+			               "Internet Explorer":378,
+			               "Safari":162,
+			               "UC Web":25,
+			               "Opera":16,
+			               "Other":11,
+			               "Yandex":2,
+			               "BlackBerry":2,
+			               "Amazon":2
+			            }
+			      }
+			   },
+			   "os_yesterday":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:operatingSystem",
+			         "filters":"ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Operating Systems",
+			         "description":"90 days of visits, broken down by operating system and date, for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:04.392Z",
+			      "name":"os_yesterday",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "os":{
+			               "Microsoft Windows":2115,
+			               "GNU/Linux":379,
+			               "Apple Macintosh":295,
+			               "Google Android":189,
+			               "Apple iOS":110,
+			               "Nokia":10,
+			               "Chrome OS":2,
+			               "UNIX":2,
+			               "Blackberry":2,
+			               "Microsoft Windows Phone/Mobile":1
+			            },
+			         "start_date":"2016-01-19",
+			         "visits":1974502576
+			      }
+			   },
+			   "visits_7days_hourly":{
+			      "name":"visits_7days_hourly",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":0
+			      },
+			      "meta":{
+			         "name":"visits_7days_hourly",
+			         "description":"7days's visits for all sites."
+			      },
+			      "taken_at":"2016-04-27T12:27:11.075Z",
+			      "query":{
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:hour",
+			         "start-date":"visits_7days_hourly",
+			         "start-index":1,
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "end-date":"visits_7days_hourly"
+			      },
+			      "data":[
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"582.0",
+			            "hour":"00",
+			            "visits":"635.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"718.0",
+			            "hour":"01",
+			            "visits":"727.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"845.0",
+			            "hour":"02",
+			            "visits":"856.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"866.0",
+			            "hour":"03",
+			            "visits":"923.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"909.0",
+			            "hour":"04",
+			            "visits":"854.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1041.0",
+			            "hour":"05",
+			            "visits":"906.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"925.0",
+			            "hour":"06",
+			            "visits":"873.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"979.0",
+			            "hour":"07",
+			            "visits":"921.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1046.0",
+			            "hour":"08",
+			            "visits":"983.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1168.0",
+			            "hour":"09",
+			            "visits":"1089.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1185.0",
+			            "hour":"10",
+			            "visits":"1048.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1089.0",
+			            "hour":"11",
+			            "visits":"917.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"920.0",
+			            "hour":"12",
+			            "visits":"777.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"929.0",
+			            "hour":"13",
+			            "visits":"769.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"952.0",
+			            "hour":"14",
+			            "visits":"726.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"823.0",
+			            "hour":"15",
+			            "visits":"717.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"748.0",
+			            "hour":"16",
+			            "visits":"627.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"575.0",
+			            "hour":"17",
+			            "visits":"509.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"403.0",
+			            "hour":"18",
+			            "visits":"379.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"367.0",
+			            "hour":"19",
+			            "visits":"324.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"354.0",
+			            "hour":"20",
+			            "visits":"329.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"439.0",
+			            "hour":"21",
+			            "visits":"435.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"471.0",
+			            "hour":"22",
+			            "visits":"437.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"479.0",
+			            "hour":"23",
+			            "visits":"474.0"
+			         }
+			      ]
+			   },
+			   "top_referrer_30_days":{
+			      "name":"top_referrer_30_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Referrer ",
+			         "description":"Top referrers for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:referrer"
+			      },
+			      "data":[
+			         {
+			            "referrer":"Other Web Sites",
+			            "instances":36902
+			         },
+			         {
+			            "referrer":"Search Engines",
+			            "instances":25664
+			         },
+			         {
+			            "referrer":"Typed/Bookmarked",
+			            "instances":11772
+			         },
+			         {
+			            "referrer":"Social Networks",
+			            "instances":1056
+			         }
+			      ]
+			   },
+			   "ie_30_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date",
+			            "-ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:browserVersion",
+			         "filters":"ga:browser==Internet Explorer;ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Internet Explorer",
+			         "description":"90 days of visits from Internet Explorer users broken down by version for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:07.866Z",
+			      "name":"ie_30_days",
+			      "totals":{
+			         "ie_version":{
+			               "Microsoft Internet Explorer 11":6677,
+			               "Microsoft Edge 13":727,
+			               "Microsoft Internet Explorer 10":351,
+			               "Microsoft Internet Explorer 9":228,
+			               "Microsoft Internet Explorer 8":189,
+			               "Microsoft Edge 12":118,
+			               "Internet Explorer Mobile 11.0":99,
+			               "Microsoft Internet Explorer (unknown version)":18,
+			               "Internet Explorer 11.0":4,
+			               "Microsoft Internet Explorer 7.0":3
+			            },
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":0
+			      }
+			   },
+			   "top_cities_30_days":{
+			      "name":"top_cities_30_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Bangalore [India]",
+			            "active_visitors":"2182.0"
+			         },
+			         {
+			            "city":"Mumbai [India]",
+			            "active_visitors":"1341.0"
+			         },
+			         {
+			            "city":"Pune [India]",
+			            "active_visitors":"1162.0"
+			         },
+			         {
+			            "city":"Chennai [India]",
+			            "active_visitors":"1007.0"
+			         },
+			         {
+			            "city":"Singapore [Singapore]",
+			            "active_visitors":"923.0"
+			         },
+			         {
+			            "city":"Hyderabad [India]",
+			            "active_visitors":"690.0"
+			         },
+			         {
+			            "city":"London [United Kingdom]",
+			            "active_visitors":"661.0"
+			         },
+			         {
+			            "city":"Delhi [India]",
+			            "active_visitors":"652.0"
+			         },
+			         {
+			            "city":"Rewa [India]",
+			            "active_visitors":"490.0"
+			         },
+			         {
+			            "city":"Dhaka [Bangladesh]",
+			            "active_visitors":"446.0"
+			         },
+			         {
+			            "city":"Seoul [Korea - South]",
+			            "active_visitors":"444.0"
+			         },
+			         {
+			            "city":"New York [United States]",
+			            "active_visitors":"426.0"
+			         },
+			         {
+			            "city":"Gurgaon [India]",
+			            "active_visitors":"406.0"
+			         },
+			         {
+			            "city":"Calcutta [India]",
+			            "active_visitors":"376.0"
+			         },
+			         {
+			            "city":"Noida [India]",
+			            "active_visitors":"370.0"
+			         },
+			         {
+			            "city":"Hong Kong [Hong Kong]",
+			            "active_visitors":"369.0"
+			         },
+			         {
+			            "city":"Chicago [United States]",
+			            "active_visitors":"368.0"
+			         },
+			         {
+			            "city":"New Delhi [India]",
+			            "active_visitors":"325.0"
+			         },
+			         {
+			            "city":"Warsaw [Poland]",
+			            "active_visitors":"320.0"
+			         },
+			         {
+			            "city":"San Jose [United States]",
+			            "active_visitors":"312.0"
+			         }
+			      ]
+			   },
+			   "top_downloads_7_days":{
+			      "name":"top_downloads_7_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Downloads Yesterday",
+			         "description":"Top downloads yesterday"
+			      },
+			      "taken_at":"2016-04-18T08:10:16.228Z",
+			      "query":{
+			         "metrics":[
+			            "ga:totalEvents"
+			         ],
+			         "sort":[
+			            "-ga:totalEvents"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":100,
+			         "dimensions":"ga:pageTitle,ga:eventLabel,ga:pagePath",
+			         "filters":"ga:eventCategory=~ownload;ga:pagePath!~(usps.com).*/(?i)(zip|doc).*",
+			         "start-date":"yesterday",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "data":[
+
+			      ]
+			   },
+			   "top_referrer_yesterday":{
+			      "name":"top_referrer_yesterday",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Referrer ",
+			         "description":"Top referrers for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:referrer"
+			      },
+			      "data":[
+			         {
+			            "referrer":"Other Web Sites",
+			            "instances":1640
+			         },
+			         {
+			            "referrer":"Search Engines",
+			            "instances":1065
+			         },
+			         {
+			            "referrer":"Typed/Bookmarked",
+			            "instances":479
+			         },
+			         {
+			            "referrer":"Social Networks",
+			            "instances":30
+			         }
+			      ]
+			   },
+			   "devices_7_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:deviceCategory",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Devices",
+			         "description":"90 days of desktop/mobile/tablet visits for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:03.924Z",
+			      "name":"devices_7_days",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "devices":{			        	 
+			            "Desktop":"14484",
+			            "Mobile":"1588",
+			            "Tablet":"285"			            
+			         },
+			         "visits":2601389,
+			         "start_date":"2016-01-19"
+			      }
+			   },
+			   "top_countries_yesterday":{
+			      "name":"top_countries_yesterday",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities",
+			         "description":"Top countries for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T15:50:05.953Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:country"
+			      },
+			      "data":[
+			         {
+			            "country":"India",
+			            "active_visitors":"326.0"
+			         },
+			         {
+			            "country":"United States",
+			            "active_visitors":"117.0"
+			         },
+			         {
+			            "country":"United Kingdom",
+			            "active_visitors":"73.0"
+			         },
+			         {
+			            "country":"Australia",
+			            "active_visitors":"31.0"
+			         },
+			         {
+			            "country":"Netherlands",
+			            "active_visitors":"28.0"
+			         },
+			         {
+			            "country":"Germany",
+			            "active_visitors":"25.0"
+			         },
+			         {
+			            "country":"Poland",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "country":"Singapore",
+			            "active_visitors":"21.0"
+			         },
+			         {
+			            "country":"Korea - South",
+			            "active_visitors":"20.0"
+			         },
+			         {
+			            "country":"France",
+			            "active_visitors":"19.0"
+			         },
+			         {
+			            "country":"China",
+			            "active_visitors":"17.0"
+			         },
+			         {
+			            "country":"Italy",
+			            "active_visitors":"15.0"
+			         },
+			         {
+			            "country":"Hong Kong",
+			            "active_visitors":"14.0"
+			         },
+			         {
+			            "country":"Spain",
+			            "active_visitors":"14.0"
+			         },
+			         {
+			            "country":"South Africa",
+			            "active_visitors":"13.0"
+			         },
+			         {
+			            "country":"Russian Federation",
+			            "active_visitors":"13.0"
+			         },
+			         {
+			            "country":"Sweden",
+			            "active_visitors":"12.0"
+			         },
+			         {
+			            "country":"Bangladesh",
+			            "active_visitors":"12.0"
+			         },
+			         {
+			            "country":"United Arab Emirates",
+			            "active_visitors":"11.0"
+			         },
+			         {
+			            "country":"Saudi Arabia",
+			            "active_visitors":"11.0"
+			         }
+			      ]
+			   },
+			   "visits_30_days":{
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "max-results":10000
+			      },
+			      "meta":{
+			         "name":"Active Users Right Now",
+			         "description":"Number of users currently visiting all sites."
+			      },
+			      "data":[
+			         {
+			            "active_visitors":"47107.0"
+			         }
+			      ],
+			      "name":"visits_30_days",
+			      "totals":{
+
+			      }
+			   },
+			   "top_cities_7_days":{
+			      "name":"top_cities_7_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Bangalore [India]",
+			            "active_visitors":"561.0"
+			         },
+			         {
+			            "city":"Mumbai [India]",
+			            "active_visitors":"354.0"
+			         },
+			         {
+			            "city":"Pune [India]",
+			            "active_visitors":"310.0"
+			         },
+			         {
+			            "city":"Chennai [India]",
+			            "active_visitors":"278.0"
+			         },
+			         {
+			            "city":"Singapore [Singapore]",
+			            "active_visitors":"242.0"
+			         },
+			         {
+			            "city":"Hyderabad [India]",
+			            "active_visitors":"197.0"
+			         },
+			         {
+			            "city":"Delhi [India]",
+			            "active_visitors":"157.0"
+			         },
+			         {
+			            "city":"Dhaka [Bangladesh]",
+			            "active_visitors":"132.0"
+			         },
+			         {
+			            "city":"Rewa [India]",
+			            "active_visitors":"120.0"
+			         },
+			         {
+			            "city":"Noida [India]",
+			            "active_visitors":"118.0"
+			         },
+			         {
+			            "city":"Seoul [Korea - South]",
+			            "active_visitors":"103.0"
+			         },
+			         {
+			            "city":"Gurgaon [India]",
+			            "active_visitors":"100.0"
+			         },
+			         {
+			            "city":"Calcutta [India]",
+			            "active_visitors":"98.0"
+			         },
+			         {
+			            "city":"Chicago [United States]",
+			            "active_visitors":"98.0"
+			         },
+			         {
+			            "city":"New York [United States]",
+			            "active_visitors":"95.0"
+			         },
+			         {
+			            "city":"Hong Kong [Hong Kong]",
+			            "active_visitors":"95.0"
+			         },
+			         {
+			            "city":"New Delhi [India]",
+			            "active_visitors":"89.0"
+			         },
+			         {
+			            "city":"Moscow [Russian Federation]",
+			            "active_visitors":"77.0"
+			         },
+			         {
+			            "city":"Raleigh [United States]",
+			            "active_visitors":"74.0"
+			         },
+			         {
+			            "city":"Warsaw [Poland]",
+			            "active_visitors":"74.0"
+			         }
+			      ]
+			   },
+			   "top_domains_7_days":{
+			      "name":"top-pages-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Pages (Live)",
+			         "description":"The top 20 pages, measured by active onsite users, for all sites."
+			      },
+			      "taken_at":"2016-04-27T11:08:04.211Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":20,
+			         "dimensions":"rt:pagePath,rt:pageTitle"
+			      },
+			      "data":[
+			         {
+			            "active_visitors":"3100",
+			            "page_title":"en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"2222",
+			            "page_title":"en/services/training/all-courses-exams",
+			            "page":"www.redhat.com/en/services/training/all-courses-exams"
+			         },
+			         {
+			            "active_visitors":"1797",
+			            "page_title":"en/services/training/rh124-red-hat-system-administration-i",
+			            "page":"www.redhat.com/en/services/training/rh124-red-hat-system-administration-i"
+			         },
+			         {
+			            "active_visitors":"1684",
+			            "page_title":"en/services/training",
+			            "page":"www.redhat.com/en/services/training"
+			         },
+			         {
+			            "active_visitors":"1495",
+			            "page_title":"en/services/training/ex300-red-hat-certified-engineer-rhce-exam",
+			            "page":"www.redhat.com/en/services/training/ex300-red-hat-certified-engineer-rhce-exam"
+			         },
+			         {
+			            "active_visitors":"1222",
+			            "page_title":"en/services/training/locations-facilities",
+			            "page":"www.redhat.com/en/services/training/locations-facilities"
+			         },
+			         {
+			            "active_visitors":"1087",
+			            "page_title":"en/services/training/learning-subscription",
+			            "page":"www.redhat.com/en/services/training/learning-subscription"
+			         },
+			         {
+			            "active_visitors":"598",
+			            "page_title":"en/services/training/courses-by-curriculum",
+			            "page":"www.redhat.com/en/services/training/courses-by-curriculum"
+			         },
+			         {
+			            "active_visitors":"574",
+			            "page_title":"en/services/training/rh199-rhcsa-rapid-track-course",
+			            "page":"www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course"
+			         },
+			         {
+			            "active_visitors":"551",
+			            "page_title":"en/services/training/global-contacts",
+			            "page":"www.redhat.com/en/services/training/global-contacts"
+			         },
+			         {
+			            "active_visitors":"499",
+			            "page_title":"en/services/training/ways-to-train",
+			            "page":"www.redhat.com/en/services/training/ways-to-train"
+			         },
+			         {
+			            "active_visitors":"498",
+			            "page_title":"en/services/training/cl210-red-hat-openstack-administration",
+			            "page":"www.redhat.com/en/services/training/cl210-red-hat-openstack-administration"
+			         },
+			         {
+			            "active_visitors":"422",
+			            "page_title":"en/services/training/rh134-red-hat-system-administration-ii",
+			            "page":"www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii"
+			         },
+			         {
+			            "active_visitors":"415",
+			            "page_title":"en/services/training/rh200-rhcsa-rapid-track-course-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/rh200-rhcsa-rapid-track-course-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"381",
+			            "page_title":"en/services/training/ex210-red-hat-certified-system-administrator-red-hat-openstack-e",
+			            "page":"www.redhat.com/en/services/training/ex210-red-hat-certified-system-administrator-red-hat-openstack-e"
+			         },
+			         {
+			            "active_visitors":"356",
+			            "page_title":"en/services/training/rh135-red-hat-system-administration-ii-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/rh135-red-hat-system-administration-ii-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"320",
+			            "page_title":"en/services/training/rh254-red-hat-system-administration-iii",
+			            "page":"www.redhat.com/en/services/training/rh254-red-hat-system-administration-iii"
+			         },
+			         {
+			            "active_visitors":"309",
+			            "page_title":"en/services/training/student-center",
+			            "page":"www.redhat.com/en/services/training/student-center"
+			         },
+			         {
+			            "active_visitors":"287",
+			            "page_title":"en/services/training/contact",
+			            "page":"www.redhat.com/en/services/training/contact"
+			         },
+			         {
+			            "active_visitors":"283",
+			            "page_title":"en/services/training/skills-assessment",
+			            "page":"www.redhat.com/en/services/training/skills-assessment"
+			         }
+			      ]
+			   },
+			   "top_downloads_yesterday":{
+			      "name":"top_downloads_yesterday",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Downloads Yesterday",
+			         "description":"Top downloads yesterday"
+			      },
+			      "taken_at":"2016-04-18T08:10:16.228Z",
+			      "query":{
+			         "metrics":[
+			            "ga:totalEvents"
+			         ],
+			         "sort":[
+			            "-ga:totalEvents"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":100,
+			         "dimensions":"ga:pageTitle,ga:eventLabel,ga:pagePath",
+			         "filters":"ga:eventCategory=~ownload;ga:pagePath!~(usps.com).*/(?i)(zip|doc).*",
+			         "start-date":"yesterday",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "data":[
+
+			      ]
+			   },
+			   "os_7_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:operatingSystem",
+			         "filters":"ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Operating Systems",
+			         "description":"90 days of visits, broken down by operating system and date, for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:04.392Z",
+			      "name":"os_7_days",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "os":{
+			               "Microsoft Windows":10664,
+			               "GNU/Linux":2187,
+			               "Apple Macintosh":1606,
+			               "Google Android":1175,
+			               "Apple iOS":606,
+			               "Nokia":43,
+			               "Microsoft Windows Phone/Mobile":32,
+			               "Other":12,
+			               "Chrome OS":11,
+			               "Blackberry":11,
+			               "UNIX":6,
+			               "Unspecified":4,
+			               "Samsung":2,
+			               "Symbian":1
+			            },
+			         "start_date":"2016-01-19",
+			         "visits":1974502576
+			      }
+			   },
+			   "os_30_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:operatingSystem",
+			         "filters":"ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Operating Systems",
+			         "description":"90 days of visits, broken down by operating system and date, for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:04.392Z",
+			      "name":"os_30_days",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "os":{
+			               "Microsoft Windows":49626,
+			               "GNU/Linux":9833,
+			               "Apple Macintosh":8146,
+			               "Google Android":4913,
+			               "Apple iOS":2904,
+			               "Nokia":166,
+			               "Microsoft Windows Phone/Mobile":159,
+			               "Chrome OS":82,
+			               "Blackberry":44,
+			               "Other":31,
+			               "Unspecified":19,
+			               "UNIX":18,
+			               "Symbian":13,
+			               "Samsung":3,
+			            },
+			         "start_date":"2016-01-19",
+			         "visits":1974502576
+			      }
+			   },
+			   "top_referrer_7_days":{
+			      "name":"top_referrer_7_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Referrer ",
+			         "description":"Top referrers for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:referrer"
+			      },
+			      "data":[
+			         {
+			            "referrer":"Other Web Sites",
+			            "instances":8261
+			         },
+			         {
+			            "referrer":"Search Engines",
+			            "instances":5903
+			         },
+			         {
+			            "referrer":"Typed/Bookmarked",
+			            "instances":2407
+			         },
+			         {
+			            "referrer":"Social Networks",
+			            "instances":162
+			         }
+			      ]
+			   },
+			   "top_pages_realtime":{
+			      "name":"top-pages-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Pages (Live)",
+			         "description":"The top 20 pages, measured by active onsite users, for all sites."
+			      },
+			      "taken_at":"2016-04-27T11:08:04.211Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":20,
+			         "dimensions":"rt:pagePath,rt:pageTitle"
+			      },
+			      "data":[
+			         {
+			            "active_visitors":"610",
+			            "page_title":"en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"492",
+			            "page_title":"en/services/training/all-courses-exams",
+			            "page":"www.redhat.com/en/services/training/all-courses-exams"
+			         },
+			         {
+			            "active_visitors":"359",
+			            "page_title":"en/services/training",
+			            "page":"www.redhat.com/en/services/training"
+			         },
+			         {
+			            "active_visitors":"352",
+			            "page_title":"en/services/training/rh124-red-hat-system-administration-i",
+			            "page":"www.redhat.com/en/services/training/rh124-red-hat-system-administration-i"
+			         },
+			         {
+			            "active_visitors":"258",
+			            "page_title":"en/services/training/ex300-red-hat-certified-engineer-rhce-exam",
+			            "page":"www.redhat.com/en/services/training/ex300-red-hat-certified-engineer-rhce-exam"
+			         },
+			         {
+			            "active_visitors":"256",
+			            "page_title":"en/services/training/locations-facilities",
+			            "page":"www.redhat.com/en/services/training/locations-facilities"
+			         },
+			         {
+			            "active_visitors":"199",
+			            "page_title":"en/services/training/learning-subscription",
+			            "page":"www.redhat.com/en/services/training/learning-subscription"
+			         },
+			         {
+			            "active_visitors":"138",
+			            "page_title":"en/services/training/courses-by-curriculum",
+			            "page":"www.redhat.com/en/services/training/courses-by-curriculum"
+			         },
+			         {
+			            "active_visitors":"126",
+			            "page_title":"en/services/training/rh199-rhcsa-rapid-track-course",
+			            "page":"www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course"
+			         },
+			         {
+			            "active_visitors":"108",
+			            "page_title":"en/services/training/global-contacts",
+			            "page":"www.redhat.com/en/services/training/global-contacts"
+			         },
+			         {
+			            "active_visitors":"97",
+			            "page_title":"en/services/training/ways-to-train",
+			            "page":"www.redhat.com/en/services/training/ways-to-train"
+			         },
+			         {
+			            "active_visitors":"97",
+			            "page_title":"en/services/training/cl210-red-hat-openstack-administration",
+			            "page":"www.redhat.com/en/services/training/cl210-red-hat-openstack-administration"
+			         },
+			         {
+			            "active_visitors":"93",
+			            "page_title":"en/services/training/rh134-red-hat-system-administration-ii",
+			            "page":"www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii"
+			         },
+			         {
+			            "active_visitors":"90",
+			            "page_title":"en/services/training/rh200-rhcsa-rapid-track-course-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/rh200-rhcsa-rapid-track-course-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"84",
+			            "page_title":"en/services/training/rh135-red-hat-system-administration-ii-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/rh135-red-hat-system-administration-ii-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"70",
+			            "page_title":"en/services/training/ex210-red-hat-certified-system-administrator-red-hat-openstack-e",
+			            "page":"www.redhat.com/en/services/training/ex210-red-hat-certified-system-administrator-red-hat-openstack-e"
+			         },
+			         {
+			            "active_visitors":"67",
+			            "page_title":"en/services/training/contact",
+			            "page":"www.redhat.com/en/services/training/contact"
+			         },
+			         {
+			            "active_visitors":"66",
+			            "page_title":"en/services/training/student-center",
+			            "page":"www.redhat.com/en/services/training/student-center"
+			         },
+			         {
+			            "active_visitors":"62",
+			            "page_title":"en/services/training/skills-assessment",
+			            "page":"www.redhat.com/en/services/training/skills-assessment"
+			         },
+			         {
+			            "active_visitors":"52",
+			            "page_title":"en/services/training/rh254-red-hat-system-administration-iii",
+			            "page":"www.redhat.com/en/services/training/rh254-red-hat-system-administration-iii"
+			         }
+			      ]
+			   },
+			   "top_domains_30_days":{
+			      "name":"top-pages-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Pages (Live)",
+			         "description":"The top 20 pages, measured by active onsite users, for all sites."
+			      },
+			      "taken_at":"2016-04-27T11:08:04.211Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":20,
+			         "dimensions":"rt:pagePath,rt:pageTitle"
+			      },
+			      "data":[
+			         {
+			            "active_visitors":"12484",
+			            "page_title":"en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"9777",
+			            "page_title":"en/services/training/all-courses-exams",
+			            "page":"www.redhat.com/en/services/training/all-courses-exams"
+			         },
+			         {
+			            "active_visitors":"7933",
+			            "page_title":"en/services/training/rh124-red-hat-system-administration-i",
+			            "page":"www.redhat.com/en/services/training/rh124-red-hat-system-administration-i"
+			         },
+			         {
+			            "active_visitors":"7797",
+			            "page_title":"en/services/training",
+			            "page":"www.redhat.com/en/services/training"
+			         },
+			         {
+			            "active_visitors":"6063",
+			            "page_title":"en/services/training/ex300-red-hat-certified-engineer-rhce-exam",
+			            "page":"www.redhat.com/en/services/training/ex300-red-hat-certified-engineer-rhce-exam"
+			         },
+			         {
+			            "active_visitors":"4996",
+			            "page_title":"en/services/training/learning-subscription",
+			            "page":"www.redhat.com/en/services/training/learning-subscription"
+			         },
+			         {
+			            "active_visitors":"4957",
+			            "page_title":"en/services/training/locations-facilities",
+			            "page":"www.redhat.com/en/services/training/locations-facilities"
+			         },
+			         {
+			            "active_visitors":"2930",
+			            "page_title":"en/services/training/courses-by-curriculum",
+			            "page":"www.redhat.com/en/services/training/courses-by-curriculum"
+			         },
+			         {
+			            "active_visitors":"2612",
+			            "page_title":"en/services/training/rh199-rhcsa-rapid-track-course",
+			            "page":"www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course"
+			         },
+			         {
+			            "active_visitors":"2352",
+			            "page_title":"en/services/training/global-contacts",
+			            "page":"www.redhat.com/en/services/training/global-contacts"
+			         },
+			         {
+			            "active_visitors":"2248",
+			            "page_title":"en/services/training/ways-to-train",
+			            "page":"www.redhat.com/en/services/training/ways-to-train"
+			         },
+			         {
+			            "active_visitors":"2224",
+			            "page_title":"en/services/training/cl210-red-hat-openstack-administration",
+			            "page":"www.redhat.com/en/services/training/cl210-red-hat-openstack-administration"
+			         },
+			         {
+			            "active_visitors":"1932",
+			            "page_title":"en/services/training/rh200-rhcsa-rapid-track-course-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/rh200-rhcsa-rapid-track-course-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"1864",
+			            "page_title":"en/services/training/rh134-red-hat-system-administration-ii",
+			            "page":"www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii"
+			         },
+			         {
+			            "active_visitors":"1646",
+			            "page_title":"en/services/training/ex210-red-hat-certified-system-administrator-red-hat-openstack-e",
+			            "page":"www.redhat.com/en/services/training/ex210-red-hat-certified-system-administrator-red-hat-openstack-e"
+			         },
+			         {
+			            "active_visitors":"1635",
+			            "page_title":"en/services/training/rh135-red-hat-system-administration-ii-rhcsa-exam",
+			            "page":"www.redhat.com/en/services/training/rh135-red-hat-system-administration-ii-rhcsa-exam"
+			         },
+			         {
+			            "active_visitors":"1529",
+			            "page_title":"en/services/training/openstack",
+			            "page":"www.redhat.com/en/services/training/openstack"
+			         },
+			         {
+			            "active_visitors":"1394",
+			            "page_title":"en/services/training/skills-assessment",
+			            "page":"www.redhat.com/en/services/training/skills-assessment"
+			         },
+			         {
+			            "active_visitors":"1387",
+			            "page_title":"en/services/training/rh254-red-hat-system-administration-iii",
+			            "page":"www.redhat.com/en/services/training/rh254-red-hat-system-administration-iii"
+			         },
+			         {
+			            "active_visitors":"1336",
+			            "page_title":"en/services/training/student-center",
+			            "page":"www.redhat.com/en/services/training/student-center"
+			         }
+			      ]
+			   },
+			   "top_cities_yesterday":{
+			      "name":"top_cities_yesterday",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Bangalore [India]",
+			            "active_visitors":"90.0"
+			         },
+			         {
+			            "city":"Mumbai [India]",
+			            "active_visitors":"60.0"
+			         },
+			         {
+			            "city":"Singapore [Singapore]",
+			            "active_visitors":"52.0"
+			         },
+			         {
+			            "city":"Pune [India]",
+			            "active_visitors":"51.0"
+			         },
+			         {
+			            "city":"Chennai [India]",
+			            "active_visitors":"50.0"
+			         },
+			         {
+			            "city":"Hyderabad [India]",
+			            "active_visitors":"37.0"
+			         },
+			         {
+			            "city":"Gurgaon [India]",
+			            "active_visitors":"31.0"
+			         },
+			         {
+			            "city":"New York [United States]",
+			            "active_visitors":"27.0"
+			         },
+			         {
+			            "city":"Noida [India]",
+			            "active_visitors":"26.0"
+			         },
+			         {
+			            "city":"Rewa [India]",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "city":"Delhi [India]",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "city":"Chicago [United States]",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "city":"Moscow [Russian Federation]",
+			            "active_visitors":"21.0"
+			         },
+			         {
+			            "city":"Hong Kong [Hong Kong]",
+			            "active_visitors":"20.0"
+			         },
+			         {
+			            "city":"New Delhi [India]",
+			            "active_visitors":"19.0"
+			         },
+			         {
+			            "city":"Raleigh [United States]",
+			            "active_visitors":"18.0"
+			         },
+			         {
+			            "city":"Sydney [Australia]",
+			            "active_visitors":"18.0"
+			         },
+			         {
+			            "city":"Toronto [Canada]",
+			            "active_visitors":"18.0"
+			         },
+			         {
+			            "city":"Warsaw [Poland]",
+			            "active_visitors":"17.0"
+			         },
+			         {
+			            "city":"Calcutta [India]",
+			            "active_visitors":"17.0"
+			         }
+			      ]
+			   },
+			   "ie_7_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date",
+			            "-ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:browserVersion",
+			         "filters":"ga:browser==Internet Explorer;ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Internet Explorer",
+			         "description":"90 days of visits from Internet Explorer users broken down by version for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:07.866Z",
+			      "name":"ie_7_days",
+			      "totals":{
+			         "ie_version":{
+			               "Microsoft Internet Explorer 11":1340,
+			               "Microsoft Edge 13":157,
+			               "Microsoft Internet Explorer 10":76,
+			               "Microsoft Internet Explorer 9":50,
+			               "Microsoft Internet Explorer 8":37,
+			               "Microsoft Edge 12":21,
+			               "Internet Explorer Mobile 11.0":21,
+			               "Microsoft Internet Explorer (unknown version)":2,
+			               "Internet Explorer 11.0":1,
+			               "Internet Explorer Mobile 10.0":1,
+			            },
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":0
+			      }
+			   },
+			   "visits_yesterday_hourly":{
+			      "name":"visits_yesterday_hourly",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":0
+			      },
+			      "meta":{
+			         "name":"visits_yesterday_hourly",
+			         "description":"yesterday's visits for all sites."
+			      },
+			      "taken_at":"2016-04-27T12:27:11.075Z",
+			      "query":{
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:hour",
+			         "start-date":"visits_yesterday_hourly",
+			         "start-index":1,
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "end-date":"visits_yesterday_hourly"
+			      },
+			      "data":[
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"94.0",
+			            "hour":"00",
+			            "visits":"127.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"113.0",
+			            "hour":"01",
+			            "visits":"144.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"157.0",
+			            "hour":"02",
+			            "visits":"149.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"177.0",
+			            "hour":"03",
+			            "visits":"155.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"162.0",
+			            "hour":"04",
+			            "visits":"156.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"171.0",
+			            "hour":"05",
+			            "visits":"169.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"155.0",
+			            "hour":"06",
+			            "visits":"156.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"172.0",
+			            "hour":"07",
+			            "visits":"166.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"189.0",
+			            "hour":"08",
+			            "visits":"193.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"234.0",
+			            "hour":"09",
+			            "visits":"222.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"200.0",
+			            "hour":"10",
+			            "visits":"199.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"201.0",
+			            "hour":"11",
+			            "visits":"189.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"144.0",
+			            "hour":"12",
+			            "visits":"154.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"146.0",
+			            "hour":"13",
+			            "visits":"153.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"141.0",
+			            "hour":"14",
+			            "visits":"141.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"147.0",
+			            "hour":"15",
+			            "visits":"165.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"125.0",
+			            "hour":"16",
+			            "visits":"124.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"100.0",
+			            "hour":"17",
+			            "visits":"109.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"63.0",
+			            "hour":"18",
+			            "visits":"71.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"61.0",
+			            "hour":"19",
+			            "visits":"56.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"74.0",
+			            "hour":"20",
+			            "visits":"44.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"76.0",
+			            "hour":"21",
+			            "visits":"79.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"79.0",
+			            "hour":"22",
+			            "visits":"71.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"76.0",
+			            "hour":"23",
+			            "visits":"78.0"
+			         }
+			      ]
+			   },
+			   "visits_7_days":{
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "max-results":10000
+			      },
+			      "meta":{
+			         "name":"Active Users Right Now",
+			         "description":"Number of users currently visiting all sites."
+			      },
+			      "data":[
+			         {
+			            "active_visitors":"13362.0"
+			         }
+			      ],
+			      "name":"visits_7_days",
+			      "totals":{
+
+			      }
+			   },
+			   "browsers_7_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date",
+			            "-ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:browser",
+			         "filters":"ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Browsers",
+			         "description":"90 days of visits broken down by browser for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:07.332Z",
+			      "name":"browsers_7_days",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":1974241511,
+			         "browser":{
+			               "Chrome":9064,
+			               "Firefox":4264,
+			               "Internet Explorer":1707,
+			               "Safari":976,
+			               "UC Web":145,
+			               "Other":84,
+			               "Opera":83,
+			               "Yandex":15,
+			               "BlackBerry":8,
+			               "Amazon":7,
+			               "Nokia":2
+			            }
+			      }
+			   },
+			   "visits_30days_hourly":{
+			      "name":"visits_30days_hourly",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":0
+			      },
+			      "meta":{
+			         "name":"visits_30days_hourly",
+			         "description":"30days's visits for all sites."
+			      },
+			      "taken_at":"2016-04-27T12:27:11.075Z",
+			      "query":{
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:hour",
+			         "start-date":"visits_30days_hourly",
+			         "start-index":1,
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "end-date":"visits_30days_hourly"
+			      },
+			      "data":[
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"2638.0",
+			            "hour":"00",
+			            "visits":"2608.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"3252.0",
+			            "hour":"01",
+			            "visits":"3129.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"3804.0",
+			            "hour":"02",
+			            "visits":"3671.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4072.0",
+			            "hour":"03",
+			            "visits":"3887.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4029.0",
+			            "hour":"04",
+			            "visits":"3887.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4149.0",
+			            "hour":"05",
+			            "visits":"4080.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4205.0",
+			            "hour":"06",
+			            "visits":"3882.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4291.0",
+			            "hour":"07",
+			            "visits":"3951.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4459.0",
+			            "hour":"08",
+			            "visits":"4424.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"5085.0",
+			            "hour":"09",
+			            "visits":"5068.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4997.0",
+			            "hour":"10",
+			            "visits":"4989.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4620.0",
+			            "hour":"11",
+			            "visits":"4635.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4170.0",
+			            "hour":"12",
+			            "visits":"3926.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"4022.0",
+			            "hour":"13",
+			            "visits":"3864.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"3990.0",
+			            "hour":"14",
+			            "visits":"3840.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"3838.0",
+			            "hour":"15",
+			            "visits":"3553.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"3414.0",
+			            "hour":"16",
+			            "visits":"3205.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"2752.0",
+			            "hour":"17",
+			            "visits":"2462.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"2109.0",
+			            "hour":"18",
+			            "visits":"1868.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1835.0",
+			            "hour":"19",
+			            "visits":"1636.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"1753.0",
+			            "hour":"20",
+			            "visits":"1604.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"2038.0",
+			            "hour":"21",
+			            "visits":"1914.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"2273.0",
+			            "hour":"22",
+			            "visits":"2073.0"
+			         },
+			         {
+			            "date":"2016-05-19",
+			            "visits_dbp":"2356.0",
+			            "hour":"23",
+			            "visits":"2091.0"
+			         }
+			      ]
+			   },
+			   "devices_yesterday":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:deviceCategory",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Devices",
+			         "description":"90 days of desktop/mobile/tablet visits for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:03.924Z",
+			      "name":"devices_yesterday",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "devices":{
+			            "Desktop":"2793",
+			            "Mobile":"269",
+			            "Tablet":"42",			            
+			         },
+			         "visits":2601389,
+			         "start_date":"2016-01-19"
+			      }
+			   },
+			   "ie_yesterday":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date",
+			            "-ga:sessions"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:browserVersion",
+			         "filters":"ga:browser==Internet Explorer;ga:sessions>1000",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Internet Explorer",
+			         "description":"90 days of visits from Internet Explorer users broken down by version for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:07.866Z",
+			      "name":"ie_yesterday",
+			      "totals":{
+			         "ie_version":{
+			               "Microsoft Internet Explorer 11":312,
+			               "Microsoft Edge 13":33,
+			               "Microsoft Internet Explorer 10":12,
+			               "Microsoft Internet Explorer 8":8,
+			               "Microsoft Internet Explorer 9":7,
+			               "Microsoft Edge 12":5,
+			               "Microsoft Internet Explorer 6.0 beta":1
+			            },
+			         "end_date":"2016-04-17",
+			         "start_date":"2016-01-19",
+			         "visits":0
+			      }
+			   },
+			   "devices_30_days":{
+			      "query":{
+			         "metrics":[
+			            "ga:sessions"
+			         ],
+			         "sort":[
+			            "ga:date"
+			         ],
+			         "samplingLevel":"HIGHER_PRECISION",
+			         "max-results":10000,
+			         "dimensions":"ga:date,ga:deviceCategory",
+			         "start-date":"90daysAgo",
+			         "start-index":1,
+			         "end-date":"yesterday"
+			      },
+			      "meta":{
+			         "name":"Devices",
+			         "description":"90 days of desktop/mobile/tablet visits for all sites."
+			      },
+			      "taken_at":"2016-04-27T08:10:03.924Z",
+			      "name":"devices_30_days",
+			      "totals":{
+			         "end_date":"2016-04-17",
+			         "devices":{
+			            "Desktop":"67729",
+			            "Mobile":"7016",
+			            "Tablet":"1206",			            
+			         },
+			         "visits":2601389,
+			         "start_date":"2016-01-19"
+			      }
+			   },
+			   "top_countries_30_days":{
+			      "name":"top_countries_30_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities",
+			         "description":"Top countries for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T15:50:05.953Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:country"
+			      },
+			      "data":[
+			         {
+			            "country":"United States",
+			            "active_visitors":"16905.0"
+			         },
+			         {
+			            "country":"India",
+			            "active_visitors":"12289.0"
+			         },
+			         {
+			            "country":"United Kingdom",
+			            "active_visitors":"2999.0"
+			         },
+			         {
+			            "country":"Australia",
+			            "active_visitors":"1518.0"
+			         },
+			         {
+			            "country":"Canada",
+			            "active_visitors":"1475.0"
+			         },
+			         {
+			            "country":"Germany",
+			            "active_visitors":"1089.0"
+			         },
+			         {
+			            "country":"Singapore",
+			            "active_visitors":"956.0"
+			         },
+			         {
+			            "country":"China",
+			            "active_visitors":"924.0"
+			         },
+			         {
+			            "country":"Netherlands",
+			            "active_visitors":"884.0"
+			         },
+			         {
+			            "country":"Brazil",
+			            "active_visitors":"828.0"
+			         },
+			         {
+			            "country":"Poland",
+			            "active_visitors":"760.0"
+			         },
+			         {
+			            "country":"Italy",
+			            "active_visitors":"716.0"
+			         },
+			         {
+			            "country":"France",
+			            "active_visitors":"612.0"
+			         },
+			         {
+			            "country":"Russian Federation",
+			            "active_visitors":"610.0"
+			         },
+			         {
+			            "country":"Spain",
+			            "active_visitors":"545.0"
+			         },
+			         {
+			            "country":"Korea - South",
+			            "active_visitors":"530.0"
+			         },
+			         {
+			            "country":"Bangladesh",
+			            "active_visitors":"472.0"
+			         },
+			         {
+			            "country":"Sweden",
+			            "active_visitors":"423.0"
+			         },
+			         {
+			            "country":"Saudi Arabia",
+			            "active_visitors":"416.0"
+			         },
+			         {
+			            "country":"Hong Kong",
+			            "active_visitors":"393.0"
+			         }
+			      ]
+			   },
+			   "visits_yesterday":{
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "max-results":10000
+			      },
+			      "meta":{
+			         "name":"Active Users Right Now",
+			         "description":"Number of users currently visiting all sites."
+			      },
+			      "data":[
+			         {
+			            "active_visitors":"2787.0"
+			         }
+			      ],
+			      "name":"visits_yesterday",
+			      "totals":{
+
+			      }
+			   },
+			   "top_countries_7_days":{
+			      "name":"top_countries_7_days",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities",
+			         "description":"Top countries for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T15:50:05.953Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:country"
+			      },
+			      "data":[
+			         {
+			            "country":"United States",
+			            "active_visitors":"3723.0"
+			         },
+			         {
+			            "country":"India",
+			            "active_visitors":"3247.0"
+			         },
+			         {
+			            "country":"United Kingdom",
+			            "active_visitors":"671.0"
+			         },
+			         {
+			            "country":"Australia",
+			            "active_visitors":"437.0"
+			         },
+			         {
+			            "country":"Canada",
+			            "active_visitors":"397.0"
+			         },
+			         {
+			            "country":"Singapore",
+			            "active_visitors":"253.0"
+			         },
+			         {
+			            "country":"Netherlands",
+			            "active_visitors":"238.0"
+			         },
+			         {
+			            "country":"Germany",
+			            "active_visitors":"224.0"
+			         },
+			         {
+			            "country":"China",
+			            "active_visitors":"189.0"
+			         },
+			         {
+			            "country":"Brazil",
+			            "active_visitors":"176.0"
+			         },
+			         {
+			            "country":"Italy",
+			            "active_visitors":"172.0"
+			         },
+			         {
+			            "country":"Poland",
+			            "active_visitors":"171.0"
+			         },
+			         {
+			            "country":"Russian Federation",
+			            "active_visitors":"157.0"
+			         },
+			         {
+			            "country":"Bangladesh",
+			            "active_visitors":"141.0"
+			         },
+			         {
+			            "country":"France",
+			            "active_visitors":"132.0"
+			         },
+			         {
+			            "country":"Korea - South",
+			            "active_visitors":"122.0"
+			         },
+			         {
+			            "country":"Sweden",
+			            "active_visitors":"118.0"
+			         },
+			         {
+			            "country":"Spain",
+			            "active_visitors":"112.0"
+			         },
+			         {
+			            "country":"Czech Republic",
+			            "active_visitors":"101.0"
+			         },
+			         {
+			            "country":"Pakistan",
+			            "active_visitors":"99.0"
+			         }
+			      ]
+			   }
+			}; 

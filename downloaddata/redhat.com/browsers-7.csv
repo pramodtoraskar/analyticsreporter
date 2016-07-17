@@ -1,0 +1,901 @@
+Day,Browser Type,Visits
+19-Feb-16,Google,12906
+19-Feb-16,Mozilla,12225
+19-Feb-16,Microsoft,3343
+19-Feb-16,Apple,2555
+19-Feb-16,Other,119
+19-Feb-16,UC Web,80
+19-Feb-16,Opera,77
+19-Feb-16,Yandex,20
+19-Feb-16,BlackBerry,13
+19-Feb-16,Amazon,4
+20-Feb-16,Google,6475
+20-Feb-16,Mozilla,4624
+20-Feb-16,Apple,1759
+20-Feb-16,Microsoft,942
+20-Feb-16,UC Web,76
+20-Feb-16,Opera,72
+20-Feb-16,Other,66
+20-Feb-16,Yandex,26
+20-Feb-16,BlackBerry,10
+20-Feb-16,Amazon,9
+21-Feb-16,Google,7205
+21-Feb-16,Mozilla,5204
+21-Feb-16,Apple,1652
+21-Feb-16,Microsoft,1565
+21-Feb-16,Other,102
+21-Feb-16,UC Web,84
+21-Feb-16,Opera,81
+21-Feb-16,Yandex,19
+21-Feb-16,Amazon,7
+21-Feb-16,BlackBerry,6
+22-Feb-16,Google,15646
+22-Feb-16,Mozilla,14633
+22-Feb-16,Microsoft,4540
+22-Feb-16,Apple,2370
+22-Feb-16,Other,133
+22-Feb-16,UC Web,85
+22-Feb-16,Opera,75
+22-Feb-16,Yandex,26
+22-Feb-16,BlackBerry,11
+22-Feb-16,Amazon,11
+23-Feb-16,Google,15161
+23-Feb-16,Mozilla,14005
+23-Feb-16,Microsoft,4678
+23-Feb-16,Apple,2334
+23-Feb-16,Other,166
+23-Feb-16,UC Web,91
+23-Feb-16,Opera,82
+23-Feb-16,Yandex,17
+23-Feb-16,BlackBerry,16
+23-Feb-16,Amazon,6
+24-Feb-16,Google,15308
+24-Feb-16,Mozilla,14059
+24-Feb-16,Microsoft,4314
+24-Feb-16,Apple,2264
+24-Feb-16,Other,166
+24-Feb-16,UC Web,94
+24-Feb-16,Opera,86
+24-Feb-16,Yandex,29
+24-Feb-16,Amazon,12
+24-Feb-16,BlackBerry,10
+25-Feb-16,Google,14646
+25-Feb-16,Mozilla,13116
+25-Feb-16,Microsoft,4258
+25-Feb-16,Apple,2047
+25-Feb-16,Other,176
+25-Feb-16,UC Web,91
+25-Feb-16,Opera,73
+25-Feb-16,Yandex,18
+25-Feb-16,BlackBerry,12
+25-Feb-16,Amazon,6
+26-Feb-16,Google,12281
+26-Feb-16,Mozilla,10805
+26-Feb-16,Microsoft,3047
+26-Feb-16,Apple,1868
+26-Feb-16,Other,107
+26-Feb-16,UC Web,99
+26-Feb-16,Opera,75
+26-Feb-16,Amazon,16
+26-Feb-16,Yandex,15
+26-Feb-16,BlackBerry,8
+27-Feb-16,Google,6315
+27-Feb-16,Mozilla,4049
+27-Feb-16,Apple,1395
+27-Feb-16,Microsoft,879
+27-Feb-16,Other,78
+27-Feb-16,Opera,76
+27-Feb-16,UC Web,70
+27-Feb-16,Amazon,27
+27-Feb-16,Yandex,19
+27-Feb-16,BlackBerry,8
+28-Feb-16,Google,7116
+28-Feb-16,Mozilla,4626
+28-Feb-16,Apple,1361
+28-Feb-16,Microsoft,1344
+28-Feb-16,Other,122
+28-Feb-16,UC Web,81
+28-Feb-16,Opera,79
+28-Feb-16,Amazon,27
+28-Feb-16,Yandex,24
+28-Feb-16,BlackBerry,9
+29-Feb-16,Google,14609
+29-Feb-16,Mozilla,13499
+29-Feb-16,Microsoft,4061
+29-Feb-16,Apple,2079
+29-Feb-16,Other,157
+29-Feb-16,Opera,91
+29-Feb-16,UC Web,88
+29-Feb-16,Yandex,27
+29-Feb-16,Amazon,21
+29-Feb-16,BlackBerry,8
+1-Mar-16,Google,15657
+1-Mar-16,Mozilla,13585
+1-Mar-16,Microsoft,4281
+1-Mar-16,Apple,2221
+1-Mar-16,Other,181
+1-Mar-16,UC Web,113
+1-Mar-16,Opera,93
+1-Mar-16,Amazon,56
+1-Mar-16,Yandex,18
+1-Mar-16,BlackBerry,14
+2-Mar-16,Google,14664
+2-Mar-16,Mozilla,13129
+2-Mar-16,Microsoft,4603
+2-Mar-16,Apple,2142
+2-Mar-16,Other,157
+2-Mar-16,UC Web,93
+2-Mar-16,Opera,81
+2-Mar-16,Amazon,51
+2-Mar-16,Yandex,12
+2-Mar-16,BlackBerry,9
+3-Mar-16,Google,14578
+3-Mar-16,Mozilla,13076
+3-Mar-16,Microsoft,4214
+3-Mar-16,Apple,2134
+3-Mar-16,Other,168
+3-Mar-16,UC Web,114
+3-Mar-16,Opera,80
+3-Mar-16,Amazon,28
+3-Mar-16,Yandex,24
+3-Mar-16,BlackBerry,18
+4-Mar-16,Google,12088
+4-Mar-16,Mozilla,10358
+4-Mar-16,Microsoft,3190
+4-Mar-16,Apple,2106
+4-Mar-16,Other,187
+4-Mar-16,UC Web,89
+4-Mar-16,Opera,84
+4-Mar-16,Yandex,36
+4-Mar-16,Amazon,26
+4-Mar-16,BlackBerry,17
+5-Mar-16,Google,6744
+5-Mar-16,Mozilla,4174
+5-Mar-16,Apple,1666
+5-Mar-16,Microsoft,981
+5-Mar-16,UC Web,349
+5-Mar-16,Other,217
+5-Mar-16,Opera,103
+5-Mar-16,Amazon,15
+5-Mar-16,BlackBerry,12
+5-Mar-16,Yandex,11
+6-Mar-16,Google,7321
+6-Mar-16,Mozilla,4878
+6-Mar-16,Apple,1696
+6-Mar-16,Microsoft,1484
+6-Mar-16,UC Web,244
+6-Mar-16,Other,228
+6-Mar-16,Opera,146
+6-Mar-16,Yandex,17
+6-Mar-16,BlackBerry,14
+6-Mar-16,Amazon,11
+7-Mar-16,Google,14698
+7-Mar-16,Mozilla,12790
+7-Mar-16,Microsoft,4167
+7-Mar-16,Apple,2316
+7-Mar-16,Other,276
+7-Mar-16,UC Web,175
+7-Mar-16,Opera,102
+7-Mar-16,BlackBerry,16
+7-Mar-16,Yandex,10
+7-Mar-16,Amazon,8
+8-Mar-16,Google,15935
+8-Mar-16,Mozilla,12842
+8-Mar-16,Microsoft,4600
+8-Mar-16,Apple,2854
+8-Mar-16,Other,360
+8-Mar-16,UC Web,105
+8-Mar-16,Opera,66
+8-Mar-16,BlackBerry,22
+8-Mar-16,Amazon,17
+8-Mar-16,Yandex,15
+9-Mar-16,Google,15121
+9-Mar-16,Mozilla,14271
+9-Mar-16,Microsoft,4421
+9-Mar-16,Apple,2872
+9-Mar-16,Other,312
+9-Mar-16,UC Web,75
+9-Mar-16,Opera,58
+9-Mar-16,Yandex,26
+9-Mar-16,BlackBerry,11
+9-Mar-16,Amazon,4
+10-Mar-16,Google,14615
+10-Mar-16,Mozilla,14604
+10-Mar-16,Microsoft,4265
+10-Mar-16,Apple,2522
+10-Mar-16,Other,245
+10-Mar-16,Opera,100
+10-Mar-16,UC Web,85
+10-Mar-16,Yandex,24
+10-Mar-16,BlackBerry,15
+10-Mar-16,Amazon,9
+11-Mar-16,Google,12385
+11-Mar-16,Mozilla,11268
+11-Mar-16,Microsoft,3233
+11-Mar-16,Apple,2179
+11-Mar-16,Other,268
+11-Mar-16,UC Web,94
+11-Mar-16,Opera,75
+11-Mar-16,Yandex,22
+11-Mar-16,BlackBerry,16
+11-Mar-16,Nokia,3
+12-Mar-16,Google,6239
+12-Mar-16,Mozilla,4184
+12-Mar-16,Apple,1698
+12-Mar-16,Microsoft,1240
+12-Mar-16,Other,197
+12-Mar-16,UC Web,104
+12-Mar-16,Opera,81
+12-Mar-16,Yandex,10
+12-Mar-16,BlackBerry,6
+12-Mar-16,Amazon,6
+13-Mar-16,Google,6988
+13-Mar-16,Mozilla,4647
+13-Mar-16,Apple,1761
+13-Mar-16,Microsoft,1649
+13-Mar-16,Other,249
+13-Mar-16,UC Web,77
+13-Mar-16,Opera,69
+13-Mar-16,Amazon,47
+13-Mar-16,Yandex,15
+13-Mar-16,BlackBerry,10
+14-Mar-16,Google,14818
+14-Mar-16,Mozilla,14232
+14-Mar-16,Microsoft,4302
+14-Mar-16,Apple,2409
+14-Mar-16,Other,335
+14-Mar-16,Opera,88
+14-Mar-16,UC Web,85
+14-Mar-16,Amazon,55
+14-Mar-16,Yandex,29
+14-Mar-16,BlackBerry,14
+15-Mar-16,Google,15566
+15-Mar-16,Mozilla,13980
+15-Mar-16,Microsoft,4658
+15-Mar-16,Apple,2607
+15-Mar-16,Other,350
+15-Mar-16,Opera,86
+15-Mar-16,UC Web,79
+15-Mar-16,Amazon,40
+15-Mar-16,Yandex,37
+15-Mar-16,BlackBerry,20
+16-Mar-16,Google,15415
+16-Mar-16,Mozilla,13412
+16-Mar-16,Microsoft,4424
+16-Mar-16,Apple,2542
+16-Mar-16,Other,305
+16-Mar-16,UC Web,118
+16-Mar-16,Opera,100
+16-Mar-16,Amazon,25
+16-Mar-16,Yandex,24
+16-Mar-16,BlackBerry,17
+17-Mar-16,Google,13989
+17-Mar-16,Mozilla,12044
+17-Mar-16,Microsoft,4128
+17-Mar-16,Apple,2184
+17-Mar-16,Other,277
+17-Mar-16,UC Web,83
+17-Mar-16,Opera,73
+17-Mar-16,Amazon,30
+17-Mar-16,Yandex,26
+17-Mar-16,BlackBerry,12
+18-Mar-16,Google,12112
+18-Mar-16,Mozilla,9972
+18-Mar-16,Microsoft,3737
+18-Mar-16,Apple,2379
+18-Mar-16,Other,236
+18-Mar-16,UC Web,97
+18-Mar-16,Opera,87
+18-Mar-16,Amazon,36
+18-Mar-16,Yandex,16
+18-Mar-16,BlackBerry,12
+19-Mar-16,Google,6322
+19-Mar-16,Mozilla,4042
+19-Mar-16,Apple,1940
+19-Mar-16,Microsoft,1093
+19-Mar-16,Other,209
+19-Mar-16,UC Web,86
+19-Mar-16,Opera,71
+19-Mar-16,Amazon,56
+19-Mar-16,Yandex,15
+19-Mar-16,BlackBerry,11
+20-Mar-16,Google,6849
+20-Mar-16,Mozilla,4439
+20-Mar-16,Apple,1815
+20-Mar-16,Microsoft,1263
+20-Mar-16,Other,222
+20-Mar-16,UC Web,88
+20-Mar-16,Opera,76
+20-Mar-16,Amazon,57
+20-Mar-16,Yandex,22
+20-Mar-16,BlackBerry,13
+21-Mar-16,Google,14093
+21-Mar-16,Mozilla,12891
+21-Mar-16,Microsoft,3805
+21-Mar-16,Apple,2305
+21-Mar-16,Other,276
+21-Mar-16,UC Web,109
+21-Mar-16,Opera,84
+21-Mar-16,Amazon,38
+21-Mar-16,Yandex,22
+21-Mar-16,BlackBerry,19
+22-Mar-16,Google,14997
+22-Mar-16,Mozilla,13295
+22-Mar-16,Microsoft,4662
+22-Mar-16,Apple,2915
+22-Mar-16,Other,313
+22-Mar-16,UC Web,87
+22-Mar-16,Opera,70
+22-Mar-16,Amazon,23
+22-Mar-16,BlackBerry,17
+22-Mar-16,Yandex,16
+23-Mar-16,Google,18096
+23-Mar-16,Mozilla,13410
+23-Mar-16,Apple,4374
+23-Mar-16,Microsoft,4226
+23-Mar-16,Other,328
+23-Mar-16,Opera,102
+23-Mar-16,UC Web,72
+23-Mar-16,Amazon,34
+23-Mar-16,Yandex,26
+23-Mar-16,BlackBerry,21
+24-Mar-16,Mozilla,28490
+24-Mar-16,Google,14498
+24-Mar-16,Microsoft,3825
+24-Mar-16,Apple,3514
+24-Mar-16,Other,314
+24-Mar-16,Opera,83
+24-Mar-16,UC Web,80
+24-Mar-16,Yandex,26
+24-Mar-16,Amazon,25
+24-Mar-16,BlackBerry,16
+25-Mar-16,Google,9726
+25-Mar-16,Mozilla,7578
+25-Mar-16,Apple,2372
+25-Mar-16,Microsoft,2347
+25-Mar-16,Other,244
+25-Mar-16,UC Web,87
+25-Mar-16,Opera,66
+25-Mar-16,Yandex,26
+25-Mar-16,BlackBerry,15
+25-Mar-16,Amazon,11
+26-Mar-16,Google,5743
+26-Mar-16,Mozilla,3643
+26-Mar-16,Apple,1484
+26-Mar-16,Microsoft,899
+26-Mar-16,Other,209
+26-Mar-16,Opera,65
+26-Mar-16,UC Web,61
+26-Mar-16,Yandex,28
+26-Mar-16,Amazon,21
+26-Mar-16,BlackBerry,9
+27-Mar-16,Google,6324
+27-Mar-16,Mozilla,3673
+27-Mar-16,Apple,1945
+27-Mar-16,Microsoft,1328
+27-Mar-16,Other,227
+27-Mar-16,UC Web,98
+27-Mar-16,Opera,69
+27-Mar-16,Yandex,25
+27-Mar-16,Amazon,15
+27-Mar-16,BlackBerry,7
+28-Mar-16,Google,12527
+28-Mar-16,Mozilla,9738
+28-Mar-16,Microsoft,3325
+28-Mar-16,Apple,2095
+28-Mar-16,Other,286
+28-Mar-16,UC Web,78
+28-Mar-16,Opera,69
+28-Mar-16,Yandex,24
+28-Mar-16,BlackBerry,11
+28-Mar-16,Amazon,10
+29-Mar-16,Google,15723
+29-Mar-16,Mozilla,12431
+29-Mar-16,Microsoft,4620
+29-Mar-16,Apple,3111
+29-Mar-16,Other,280
+29-Mar-16,UC Web,102
+29-Mar-16,Opera,83
+29-Mar-16,Yandex,28
+29-Mar-16,BlackBerry,17
+29-Mar-16,Amazon,9
+30-Mar-16,Google,15774
+30-Mar-16,Mozilla,12440
+30-Mar-16,Microsoft,4212
+30-Mar-16,Apple,2687
+30-Mar-16,Other,285
+30-Mar-16,UC Web,100
+30-Mar-16,Opera,77
+30-Mar-16,Yandex,25
+30-Mar-16,BlackBerry,10
+30-Mar-16,Amazon,9
+31-Mar-16,Google,15662
+31-Mar-16,Mozilla,12121
+31-Mar-16,Microsoft,4034
+31-Mar-16,Apple,3550
+31-Mar-16,Other,314
+31-Mar-16,UC Web,102
+31-Mar-16,Opera,101
+31-Mar-16,Yandex,31
+31-Mar-16,BlackBerry,18
+31-Mar-16,Amazon,12
+1-Apr-16,Google,18037
+1-Apr-16,Mozilla,12944
+1-Apr-16,Apple,3962
+1-Apr-16,Microsoft,3653
+1-Apr-16,Other,306
+1-Apr-16,Opera,114
+1-Apr-16,UC Web,98
+1-Apr-16,Yandex,32
+1-Apr-16,BlackBerry,23
+1-Apr-16,Amazon,14
+2-Apr-16,Google,8233
+2-Apr-16,Mozilla,5458
+2-Apr-16,Apple,2769
+2-Apr-16,Microsoft,1339
+2-Apr-16,Other,226
+2-Apr-16,UC Web,124
+2-Apr-16,Opera,108
+2-Apr-16,Yandex,17
+2-Apr-16,Amazon,12
+2-Apr-16,BlackBerry,11
+3-Apr-16,Google,7956
+3-Apr-16,Mozilla,5266
+3-Apr-16,Apple,2260
+3-Apr-16,Microsoft,1651
+3-Apr-16,Other,208
+3-Apr-16,UC Web,95
+3-Apr-16,Opera,91
+3-Apr-16,BlackBerry,12
+3-Apr-16,Yandex,11
+3-Apr-16,Amazon,11
+4-Apr-16,Google,16308
+4-Apr-16,Mozilla,13482
+4-Apr-16,Microsoft,4543
+4-Apr-16,Apple,3154
+4-Apr-16,Other,292
+4-Apr-16,UC Web,100
+4-Apr-16,Opera,98
+4-Apr-16,Yandex,24
+4-Apr-16,BlackBerry,16
+4-Apr-16,Amazon,11
+5-Apr-16,Google,17323
+5-Apr-16,Mozilla,13908
+5-Apr-16,Microsoft,4870
+5-Apr-16,Apple,3491
+5-Apr-16,Other,348
+5-Apr-16,UC Web,96
+5-Apr-16,Opera,94
+5-Apr-16,Yandex,42
+5-Apr-16,Netscape,11
+5-Apr-16,BlackBerry,10
+6-Apr-16,Google,17797
+6-Apr-16,Mozilla,13662
+6-Apr-16,Microsoft,5215
+6-Apr-16,Apple,3958
+6-Apr-16,Other,325
+6-Apr-16,UC Web,101
+6-Apr-16,Opera,94
+6-Apr-16,Yandex,25
+6-Apr-16,BlackBerry,20
+6-Apr-16,Amazon,7
+7-Apr-16,Google,16231
+7-Apr-16,Mozilla,12722
+7-Apr-16,Microsoft,4556
+7-Apr-16,Apple,3229
+7-Apr-16,Other,313
+7-Apr-16,Opera,89
+7-Apr-16,UC Web,82
+7-Apr-16,Yandex,28
+7-Apr-16,Amazon,19
+7-Apr-16,BlackBerry,15
+8-Apr-16,Google,12438
+8-Apr-16,Mozilla,10348
+8-Apr-16,Microsoft,3183
+8-Apr-16,Apple,2665
+8-Apr-16,Other,295
+8-Apr-16,Opera,82
+8-Apr-16,UC Web,80
+8-Apr-16,Yandex,29
+8-Apr-16,Amazon,15
+8-Apr-16,BlackBerry,10
+9-Apr-16,Google,6487
+9-Apr-16,Mozilla,4460
+9-Apr-16,Apple,1909
+9-Apr-16,Microsoft,946
+9-Apr-16,Other,195
+9-Apr-16,UC Web,83
+9-Apr-16,Opera,76
+9-Apr-16,Yandex,15
+9-Apr-16,Amazon,15
+9-Apr-16,Netscape,12
+10-Apr-16,Google,6942
+10-Apr-16,Mozilla,4997
+10-Apr-16,Apple,1969
+10-Apr-16,Microsoft,1421
+10-Apr-16,Other,234
+10-Apr-16,UC Web,87
+10-Apr-16,Opera,70
+10-Apr-16,Yandex,16
+10-Apr-16,Amazon,9
+10-Apr-16,BlackBerry,7
+11-Apr-16,Google,15335
+11-Apr-16,Mozilla,13132
+11-Apr-16,Microsoft,4354
+11-Apr-16,Apple,2980
+11-Apr-16,Other,287
+11-Apr-16,Opera,99
+11-Apr-16,UC Web,76
+11-Apr-16,Yandex,22
+11-Apr-16,BlackBerry,11
+11-Apr-16,Amazon,5
+12-Apr-16,Google,15380
+12-Apr-16,Mozilla,12455
+12-Apr-16,Microsoft,4414
+12-Apr-16,Apple,2792
+12-Apr-16,Other,300
+12-Apr-16,UC Web,99
+12-Apr-16,Opera,75
+12-Apr-16,Yandex,32
+12-Apr-16,BlackBerry,9
+12-Apr-16,Amazon,8
+13-Apr-16,Google,14983
+13-Apr-16,Mozilla,12215
+13-Apr-16,Microsoft,4262
+13-Apr-16,Apple,2664
+13-Apr-16,Other,291
+13-Apr-16,Opera,75
+13-Apr-16,UC Web,67
+13-Apr-16,Yandex,26
+13-Apr-16,BlackBerry,15
+13-Apr-16,Amazon,3
+14-Apr-16,Google,14778
+14-Apr-16,Mozilla,11625
+14-Apr-16,Microsoft,4126
+14-Apr-16,Apple,2721
+14-Apr-16,Other,253
+14-Apr-16,UC Web,78
+14-Apr-16,Opera,75
+14-Apr-16,Yandex,31
+14-Apr-16,BlackBerry,13
+14-Apr-16,Amazon,5
+15-Apr-16,Google,12695
+15-Apr-16,Mozilla,10036
+15-Apr-16,Microsoft,3108
+15-Apr-16,Apple,2430
+15-Apr-16,Other,220
+15-Apr-16,Opera,77
+15-Apr-16,UC Web,66
+15-Apr-16,Yandex,31
+15-Apr-16,BlackBerry,12
+15-Apr-16,Amazon,9
+16-Apr-16,Google,6042
+16-Apr-16,Mozilla,3953
+16-Apr-16,Apple,1778
+16-Apr-16,Microsoft,1007
+16-Apr-16,Other,217
+16-Apr-16,UC Web,82
+16-Apr-16,Opera,67
+16-Apr-16,BlackBerry,12
+16-Apr-16,Yandex,8
+16-Apr-16,Amazon,8
+17-Apr-16,Google,6854
+17-Apr-16,Mozilla,4223
+17-Apr-16,Apple,1716
+17-Apr-16,Microsoft,1328
+17-Apr-16,Other,224
+17-Apr-16,UC Web,71
+17-Apr-16,Opera,59
+17-Apr-16,Yandex,12
+17-Apr-16,Amazon,8
+17-Apr-16,BlackBerry,5
+18-Apr-16,Google,15135
+18-Apr-16,Mozilla,12008
+18-Apr-16,Microsoft,4313
+18-Apr-16,Apple,2609
+18-Apr-16,Other,266
+18-Apr-16,UC Web,93
+18-Apr-16,Opera,91
+18-Apr-16,Yandex,24
+18-Apr-16,Amazon,9
+18-Apr-16,BlackBerry,6
+19-Apr-16,Google,15608
+19-Apr-16,Mozilla,12423
+19-Apr-16,Microsoft,4321
+19-Apr-16,Apple,2744
+19-Apr-16,Other,284
+19-Apr-16,UC Web,115
+19-Apr-16,Opera,98
+19-Apr-16,Yandex,27
+19-Apr-16,BlackBerry,11
+19-Apr-16,Amazon,6
+20-Apr-16,Google,15840
+20-Apr-16,Mozilla,12319
+20-Apr-16,Microsoft,4386
+20-Apr-16,Apple,3155
+20-Apr-16,Other,342
+20-Apr-16,UC Web,90
+20-Apr-16,Opera,84
+20-Apr-16,Yandex,22
+20-Apr-16,BlackBerry,12
+20-Apr-16,Amazon,11
+21-Apr-16,Google,15346
+21-Apr-16,Mozilla,11815
+21-Apr-16,Microsoft,4396
+21-Apr-16,Apple,2743
+21-Apr-16,Other,329
+21-Apr-16,UC Web,111
+21-Apr-16,Opera,97
+21-Apr-16,Yandex,22
+21-Apr-16,BlackBerry,12
+21-Apr-16,Amazon,5
+22-Apr-16,Google,12682
+22-Apr-16,Mozilla,9539
+22-Apr-16,Microsoft,3174
+22-Apr-16,Apple,2388
+22-Apr-16,Other,232
+22-Apr-16,UC Web,88
+22-Apr-16,Opera,76
+22-Apr-16,Yandex,24
+22-Apr-16,BlackBerry,12
+22-Apr-16,Netscape,12
+23-Apr-16,Google,6183
+23-Apr-16,Mozilla,4055
+23-Apr-16,Apple,1784
+23-Apr-16,Microsoft,947
+23-Apr-16,Other,212
+23-Apr-16,UC Web,88
+23-Apr-16,Opera,75
+23-Apr-16,Yandex,16
+23-Apr-16,BlackBerry,15
+23-Apr-16,Amazon,10
+24-Apr-16,Google,6553
+24-Apr-16,Mozilla,4323
+24-Apr-16,Apple,1953
+24-Apr-16,Microsoft,1316
+24-Apr-16,Other,256
+24-Apr-16,UC Web,104
+24-Apr-16,Opera,79
+24-Apr-16,Yandex,19
+24-Apr-16,Amazon,12
+24-Apr-16,BlackBerry,6
+25-Apr-16,Google,15684
+25-Apr-16,Mozilla,11707
+25-Apr-16,Microsoft,4069
+25-Apr-16,Apple,2944
+25-Apr-16,Other,325
+25-Apr-16,Opera,97
+25-Apr-16,UC Web,94
+25-Apr-16,Yandex,31
+25-Apr-16,BlackBerry,10
+25-Apr-16,Amazon,8
+26-Apr-16,Google,16135
+26-Apr-16,Mozilla,11549
+26-Apr-16,Microsoft,4276
+26-Apr-16,Apple,2842
+26-Apr-16,Other,293
+26-Apr-16,UC Web,104
+26-Apr-16,Opera,84
+26-Apr-16,Yandex,33
+26-Apr-16,BlackBerry,12
+26-Apr-16,Amazon,10
+27-Apr-16,Google,15508
+27-Apr-16,Mozilla,13519
+27-Apr-16,Microsoft,4358
+27-Apr-16,Apple,3106
+27-Apr-16,Other,314
+27-Apr-16,UC Web,86
+27-Apr-16,Opera,85
+27-Apr-16,Yandex,25
+27-Apr-16,BlackBerry,16
+27-Apr-16,Amazon,12
+28-Apr-16,Google,15740
+28-Apr-16,Mozilla,13351
+28-Apr-16,Microsoft,4249
+28-Apr-16,Apple,3371
+28-Apr-16,Other,306
+28-Apr-16,Opera,171
+28-Apr-16,UC Web,116
+28-Apr-16,Yandex,25
+28-Apr-16,BlackBerry,11
+28-Apr-16,Amazon,8
+29-Apr-16,Mozilla,16952
+29-Apr-16,Google,15922
+29-Apr-16,Apple,2883
+29-Apr-16,Microsoft,2844
+29-Apr-16,Other,347
+29-Apr-16,Opera,78
+29-Apr-16,UC Web,77
+29-Apr-16,Yandex,15
+29-Apr-16,BlackBerry,12
+29-Apr-16,Amazon,4
+30-Apr-16,Google,6748
+30-Apr-16,Mozilla,3703
+30-Apr-16,Apple,1900
+30-Apr-16,Microsoft,878
+30-Apr-16,Other,359
+30-Apr-16,Opera,87
+30-Apr-16,UC Web,71
+30-Apr-16,Yandex,18
+30-Apr-16,BlackBerry,15
+30-Apr-16,Amazon,8
+1-May-16,Google,7357
+1-May-16,Mozilla,3780
+1-May-16,Apple,1969
+1-May-16,Microsoft,1192
+1-May-16,Other,437
+1-May-16,UC Web,81
+1-May-16,Opera,75
+1-May-16,Yandex,14
+1-May-16,Amazon,14
+1-May-16,BlackBerry,11
+2-May-16,Google,14610
+2-May-16,Mozilla,11167
+2-May-16,Microsoft,3389
+2-May-16,Apple,2889
+2-May-16,Other,504
+2-May-16,UC Web,87
+2-May-16,Opera,70
+2-May-16,Yandex,14
+2-May-16,BlackBerry,10
+2-May-16,Amazon,6
+3-May-16,Google,15583
+3-May-16,Mozilla,11446
+3-May-16,Microsoft,3605
+3-May-16,Apple,2886
+3-May-16,Other,496
+3-May-16,UC Web,84
+3-May-16,Opera,82
+3-May-16,Yandex,25
+3-May-16,Amazon,16
+3-May-16,BlackBerry,11
+4-May-16,Google,16283
+4-May-16,Mozilla,11117
+4-May-16,Microsoft,3844
+4-May-16,Apple,2667
+4-May-16,Other,649
+4-May-16,UC Web,86
+4-May-16,Opera,86
+4-May-16,BlackBerry,19
+4-May-16,Yandex,18
+4-May-16,Amazon,9
+5-May-16,Google,14521
+5-May-16,Mozilla,9750
+5-May-16,Microsoft,3203
+5-May-16,Apple,2415
+5-May-16,Other,589
+5-May-16,Opera,90
+5-May-16,UC Web,80
+5-May-16,Yandex,25
+5-May-16,BlackBerry,10
+5-May-16,Amazon,3
+6-May-16,Google,13115
+6-May-16,Mozilla,8646
+6-May-16,Microsoft,2936
+6-May-16,Apple,2410
+6-May-16,Other,601
+6-May-16,Opera,82
+6-May-16,UC Web,55
+6-May-16,Yandex,20
+6-May-16,BlackBerry,11
+6-May-16,Amazon,9
+7-May-16,Google,7229
+7-May-16,Mozilla,3357
+7-May-16,Apple,2088
+7-May-16,Microsoft,1028
+7-May-16,Other,552
+7-May-16,UC Web,97
+7-May-16,Opera,75
+7-May-16,BlackBerry,12
+7-May-16,Amazon,10
+7-May-16,Yandex,9
+8-May-16,Google,8066
+8-May-16,Mozilla,3715
+8-May-16,Microsoft,1840
+8-May-16,Apple,1574
+8-May-16,Other,589
+8-May-16,UC Web,102
+8-May-16,Opera,101
+8-May-16,Yandex,12
+8-May-16,Amazon,12
+8-May-16,BlackBerry,9
+9-May-16,Google,17818
+9-May-16,Mozilla,12056
+9-May-16,Microsoft,5274
+9-May-16,Apple,2628
+9-May-16,Other,874
+9-May-16,Opera,83
+9-May-16,UC Web,79
+9-May-16,Yandex,18
+9-May-16,BlackBerry,12
+9-May-16,Amazon,9
+10-May-16,Google,19002
+10-May-16,Mozilla,12579
+10-May-16,Microsoft,5572
+10-May-16,Apple,2696
+10-May-16,Other,888
+10-May-16,UC Web,101
+10-May-16,Opera,94
+10-May-16,Yandex,23
+10-May-16,BlackBerry,19
+10-May-16,Amazon,10
+11-May-16,Google,17661
+11-May-16,Mozilla,13104
+11-May-16,Microsoft,4984
+11-May-16,Apple,2882
+11-May-16,Other,552
+11-May-16,Opera,115
+11-May-16,UC Web,101
+11-May-16,Yandex,35
+11-May-16,BlackBerry,10
+11-May-16,Amazon,7
+12-May-16,Google,18287
+12-May-16,Mozilla,12347
+12-May-16,Microsoft,4558
+12-May-16,Apple,2840
+12-May-16,Other,890
+12-May-16,Opera,109
+12-May-16,UC Web,108
+12-May-16,Yandex,22
+12-May-16,BlackBerry,21
+12-May-16,Amazon,7
+13-May-16,Google,14592
+13-May-16,Mozilla,9882
+13-May-16,Microsoft,3567
+13-May-16,Apple,2373
+13-May-16,Other,715
+13-May-16,UC Web,96
+13-May-16,Opera,75
+13-May-16,Yandex,21
+13-May-16,Amazon,12
+13-May-16,BlackBerry,9
+14-May-16,Google,6297
+14-May-16,Mozilla,3664
+14-May-16,Apple,1634
+14-May-16,Microsoft,1221
+14-May-16,Other,313
+14-May-16,UC Web,88
+14-May-16,Opera,84
+14-May-16,Yandex,14
+14-May-16,BlackBerry,11
+14-May-16,Amazon,4
+15-May-16,Google,7137
+15-May-16,Mozilla,4089
+15-May-16,Apple,1645
+15-May-16,Microsoft,1597
+15-May-16,Other,307
+15-May-16,UC Web,90
+15-May-16,Opera,77
+15-May-16,Yandex,23
+15-May-16,Amazon,10
+15-May-16,BlackBerry,8
+16-May-16,Google,14608
+16-May-16,Mozilla,10885
+16-May-16,Microsoft,3904
+16-May-16,Apple,2400
+16-May-16,Other,354
+16-May-16,UC Web,88
+16-May-16,Opera,84
+16-May-16,Yandex,18
+16-May-16,BlackBerry,13
+16-May-16,Amazon,12
+17-May-16,Google,15680
+17-May-16,Mozilla,11673
+17-May-16,Microsoft,4350
+17-May-16,Apple,2614
+17-May-16,Other,350
+17-May-16,UC Web,90
+17-May-16,Opera,67
+17-May-16,Yandex,31
+17-May-16,BlackBerry,9
+17-May-16,Amazon,6
+18-May-16,Google,15613
+18-May-16,Mozilla,11939
+18-May-16,Microsoft,4640
+18-May-16,Apple,2760
+18-May-16,Other,379
+18-May-16,UC Web,72
+18-May-16,Opera,62
+18-May-16,Yandex,30
+18-May-16,Amazon,11
+18-May-16,BlackBerry,8

@@ -1,0 +1,822 @@
+Date,Operating System Types,Visits
+19-Feb-16,Microsoft Windows,416
+19-Feb-16,Apple iOS,139
+19-Feb-16,Apple Macintosh,139
+19-Feb-16,Google Android,94
+19-Feb-16,GNU/Linux,38
+19-Feb-16,Other,2
+19-Feb-16,Chrome OS,1
+19-Feb-16,Microsoft Windows Phone/Mobile,1
+19-Feb-16,Blackberry,1
+20-Feb-16,Apple iOS,129
+20-Feb-16,Microsoft Windows,107
+20-Feb-16,Google Android,59
+20-Feb-16,Apple Macintosh,35
+20-Feb-16,GNU/Linux,15
+20-Feb-16,Other,3
+20-Feb-16,Microsoft Windows Phone/Mobile,2
+20-Feb-16,Nokia,1
+21-Feb-16,Microsoft Windows,165
+21-Feb-16,Apple iOS,128
+21-Feb-16,Google Android,83
+21-Feb-16,Apple Macintosh,77
+21-Feb-16,GNU/Linux,6
+21-Feb-16,Chrome OS,2
+21-Feb-16,Other,2
+21-Feb-16,Nokia,1
+22-Feb-16,Apple iOS,950
+22-Feb-16,Microsoft Windows,842
+22-Feb-16,Google Android,493
+22-Feb-16,Apple Macintosh,373
+22-Feb-16,GNU/Linux,85
+22-Feb-16,Microsoft Windows Phone/Mobile,11
+22-Feb-16,Blackberry,6
+22-Feb-16,Chrome OS,3
+22-Feb-16,Other,3
+22-Feb-16,Nokia,2
+23-Feb-16,Microsoft Windows,800
+23-Feb-16,Apple iOS,721
+23-Feb-16,Google Android,439
+23-Feb-16,Apple Macintosh,360
+23-Feb-16,GNU/Linux,154
+23-Feb-16,Microsoft Windows Phone/Mobile,5
+23-Feb-16,Other,4
+23-Feb-16,Nokia,1
+23-Feb-16,Chrome OS,1
+23-Feb-16,Blackberry,1
+24-Feb-16,Microsoft Windows,743
+24-Feb-16,Apple iOS,645
+24-Feb-16,Google Android,374
+24-Feb-16,Apple Macintosh,270
+24-Feb-16,GNU/Linux,74
+24-Feb-16,Microsoft Windows Phone/Mobile,14
+24-Feb-16,Blackberry,11
+24-Feb-16,Chrome OS,6
+25-Feb-16,Microsoft Windows,636
+25-Feb-16,Apple iOS,448
+25-Feb-16,Google Android,306
+25-Feb-16,Apple Macintosh,239
+25-Feb-16,GNU/Linux,190
+25-Feb-16,Microsoft Windows Phone/Mobile,8
+25-Feb-16,Chrome OS,7
+25-Feb-16,Blackberry,3
+25-Feb-16,Other,3
+26-Feb-16,Microsoft Windows,539
+26-Feb-16,Apple iOS,236
+26-Feb-16,Apple Macintosh,187
+26-Feb-16,Google Android,132
+26-Feb-16,GNU/Linux,119
+26-Feb-16,Microsoft Windows Phone/Mobile,4
+26-Feb-16,Other,4
+26-Feb-16,Blackberry,3
+26-Feb-16,Chrome OS,1
+26-Feb-16,Symbian,1
+27-Feb-16,Microsoft Windows,152
+27-Feb-16,Apple iOS,131
+27-Feb-16,Google Android,63
+27-Feb-16,Apple Macintosh,55
+27-Feb-16,GNU/Linux,33
+27-Feb-16,Chrome OS,3
+27-Feb-16,Microsoft Windows Phone/Mobile,2
+27-Feb-16,Other,2
+28-Feb-16,Microsoft Windows,385
+28-Feb-16,Apple iOS,331
+28-Feb-16,Google Android,319
+28-Feb-16,GNU/Linux,173
+28-Feb-16,Apple Macintosh,155
+28-Feb-16,Chrome OS,11
+28-Feb-16,Microsoft Windows Phone/Mobile,10
+28-Feb-16,Blackberry,2
+28-Feb-16,Other,2
+29-Feb-16,Microsoft Windows,627
+29-Feb-16,Apple Macintosh,191
+29-Feb-16,Apple iOS,158
+29-Feb-16,Google Android,132
+29-Feb-16,GNU/Linux,113
+29-Feb-16,Other,3
+29-Feb-16,Chrome OS,2
+29-Feb-16,UNIX,1
+29-Feb-16,Microsoft Windows Phone/Mobile,1
+29-Feb-16,Blackberry,1
+1-Mar-16,Microsoft Windows,698
+1-Mar-16,Apple iOS,294
+1-Mar-16,Apple Macintosh,241
+1-Mar-16,Google Android,142
+1-Mar-16,GNU/Linux,58
+1-Mar-16,Microsoft Windows Phone/Mobile,7
+1-Mar-16,Blackberry,5
+1-Mar-16,Other,3
+1-Mar-16,Chrome OS,2
+1-Mar-16,Symbian,1
+2-Mar-16,Microsoft Windows,653
+2-Mar-16,Apple iOS,267
+2-Mar-16,Apple Macintosh,239
+2-Mar-16,Google Android,109
+2-Mar-16,GNU/Linux,42
+2-Mar-16,Nokia,3
+2-Mar-16,Microsoft Windows Phone/Mobile,3
+2-Mar-16,Chrome OS,2
+2-Mar-16,Blackberry,1
+3-Mar-16,Microsoft Windows,463
+3-Mar-16,Apple Macintosh,183
+3-Mar-16,Apple iOS,139
+3-Mar-16,Google Android,91
+3-Mar-16,GNU/Linux,59
+3-Mar-16,Other,6
+3-Mar-16,Nokia,3
+3-Mar-16,Microsoft Windows Phone/Mobile,3
+4-Mar-16,Microsoft Windows,287
+4-Mar-16,Apple iOS,115
+4-Mar-16,Apple Macintosh,103
+4-Mar-16,Google Android,78
+4-Mar-16,GNU/Linux,51
+4-Mar-16,Blackberry,5
+4-Mar-16,Microsoft Windows Phone/Mobile,2
+4-Mar-16,Other,2
+4-Mar-16,Chrome OS,1
+5-Mar-16,Microsoft Windows,152
+5-Mar-16,Apple iOS,107
+5-Mar-16,Google Android,61
+5-Mar-16,Apple Macintosh,47
+5-Mar-16,GNU/Linux,14
+5-Mar-16,Chrome OS,3
+5-Mar-16,Microsoft Windows Phone/Mobile,2
+5-Mar-16,Other,2
+5-Mar-16,Blackberry,1
+6-Mar-16,Microsoft Windows,170
+6-Mar-16,Apple iOS,95
+6-Mar-16,Apple Macintosh,67
+6-Mar-16,Google Android,53
+6-Mar-16,GNU/Linux,20
+6-Mar-16,Chrome OS,5
+6-Mar-16,Other,3
+6-Mar-16,Nokia,2
+6-Mar-16,Microsoft Windows Phone/Mobile,1
+6-Mar-16,Blackberry,1
+7-Mar-16,Microsoft Windows,375
+7-Mar-16,Apple Macintosh,150
+7-Mar-16,Apple iOS,113
+7-Mar-16,Google Android,86
+7-Mar-16,GNU/Linux,43
+7-Mar-16,Chrome OS,4
+7-Mar-16,Microsoft Windows Phone/Mobile,3
+7-Mar-16,Other,3
+7-Mar-16,Blackberry,1
+8-Mar-16,Microsoft Windows,2552
+8-Mar-16,Apple Macintosh,910
+8-Mar-16,Apple iOS,425
+8-Mar-16,GNU/Linux,374
+8-Mar-16,Google Android,344
+8-Mar-16,Chrome OS,15
+8-Mar-16,Microsoft Windows Phone/Mobile,9
+8-Mar-16,Blackberry,5
+8-Mar-16,Other,2
+8-Mar-16,Unspecified,2
+9-Mar-16,Microsoft Windows,1358
+9-Mar-16,Apple iOS,849
+9-Mar-16,Google Android,558
+9-Mar-16,Apple Macintosh,498
+9-Mar-16,GNU/Linux,174
+9-Mar-16,Blackberry,16
+9-Mar-16,Microsoft Windows Phone/Mobile,12
+9-Mar-16,Chrome OS,5
+9-Mar-16,Other,2
+9-Mar-16,Nokia,1
+10-Mar-16,Microsoft Windows,641
+10-Mar-16,Apple iOS,395
+10-Mar-16,Google Android,222
+10-Mar-16,Apple Macintosh,220
+10-Mar-16,GNU/Linux,67
+10-Mar-16,Chrome OS,5
+10-Mar-16,Blackberry,5
+10-Mar-16,Microsoft Windows Phone/Mobile,3
+10-Mar-16,Other,2
+11-Mar-16,Microsoft Windows,448
+11-Mar-16,Apple Macintosh,170
+11-Mar-16,Apple iOS,137
+11-Mar-16,Google Android,92
+11-Mar-16,GNU/Linux,38
+11-Mar-16,Chrome OS,5
+11-Mar-16,Microsoft Windows Phone/Mobile,2
+11-Mar-16,Other,2
+11-Mar-16,Blackberry,1
+12-Mar-16,Microsoft Windows,114
+12-Mar-16,Apple iOS,107
+12-Mar-16,Google Android,60
+12-Mar-16,Apple Macintosh,56
+12-Mar-16,GNU/Linux,14
+12-Mar-16,Microsoft Windows Phone/Mobile,2
+12-Mar-16,Blackberry,2
+12-Mar-16,Other,2
+12-Mar-16,Chrome OS,1
+13-Mar-16,Microsoft Windows,158
+13-Mar-16,Apple iOS,127
+13-Mar-16,Apple Macintosh,72
+13-Mar-16,Google Android,56
+13-Mar-16,GNU/Linux,15
+13-Mar-16,Chrome OS,4
+13-Mar-16,Microsoft Windows Phone/Mobile,3
+13-Mar-16,Blackberry,2
+13-Mar-16,Nokia,1
+14-Mar-16,Microsoft Windows,561
+14-Mar-16,Apple Macintosh,225
+14-Mar-16,GNU/Linux,143
+14-Mar-16,Google Android,139
+14-Mar-16,Apple iOS,139
+14-Mar-16,Chrome OS,4
+14-Mar-16,Microsoft Windows Phone/Mobile,4
+14-Mar-16,Other,4
+14-Mar-16,Nokia,1
+14-Mar-16,WebOS,1
+15-Mar-16,Microsoft Windows,392
+15-Mar-16,Apple Macintosh,176
+15-Mar-16,Apple iOS,143
+15-Mar-16,Google Android,112
+15-Mar-16,GNU/Linux,57
+15-Mar-16,Microsoft Windows Phone/Mobile,4
+15-Mar-16,Blackberry,2
+15-Mar-16,Other,2
+15-Mar-16,Chrome OS,1
+16-Mar-16,Microsoft Windows,755
+16-Mar-16,Apple iOS,329
+16-Mar-16,Apple Macintosh,254
+16-Mar-16,Google Android,195
+16-Mar-16,GNU/Linux,128
+16-Mar-16,Microsoft Windows Phone/Mobile,8
+16-Mar-16,Chrome OS,2
+16-Mar-16,Blackberry,2
+16-Mar-16,Other,2
+16-Mar-16,Nokia,1
+17-Mar-16,Microsoft Windows,501
+17-Mar-16,Apple iOS,232
+17-Mar-16,Apple Macintosh,197
+17-Mar-16,Google Android,181
+17-Mar-16,GNU/Linux,125
+17-Mar-16,Microsoft Windows Phone/Mobile,6
+17-Mar-16,Other,3
+17-Mar-16,Chrome OS,2
+17-Mar-16,UNIX,1
+17-Mar-16,Samsung,1
+18-Mar-16,Microsoft Windows,379
+18-Mar-16,Apple iOS,148
+18-Mar-16,Apple Macintosh,144
+18-Mar-16,Google Android,118
+18-Mar-16,GNU/Linux,70
+18-Mar-16,Chrome OS,2
+18-Mar-16,Other,2
+18-Mar-16,Nokia,1
+18-Mar-16,Microsoft Windows Phone/Mobile,1
+18-Mar-16,Blackberry,1
+19-Mar-16,Microsoft Windows,147
+19-Mar-16,Apple iOS,75
+19-Mar-16,Google Android,46
+19-Mar-16,Apple Macintosh,46
+19-Mar-16,GNU/Linux,20
+19-Mar-16,Chrome OS,4
+19-Mar-16,Blackberry,2
+19-Mar-16,Other,2
+19-Mar-16,Nokia,1
+19-Mar-16,Microsoft Windows Phone/Mobile,1
+20-Mar-16,Microsoft Windows,135
+20-Mar-16,Apple iOS,91
+20-Mar-16,Apple Macintosh,59
+20-Mar-16,Google Android,36
+20-Mar-16,GNU/Linux,24
+20-Mar-16,Nokia,2
+20-Mar-16,Chrome OS,2
+20-Mar-16,Other,1
+21-Mar-16,Microsoft Windows,428
+21-Mar-16,Apple Macintosh,202
+21-Mar-16,Apple iOS,121
+21-Mar-16,Google Android,74
+21-Mar-16,GNU/Linux,61
+21-Mar-16,Microsoft Windows Phone/Mobile,5
+21-Mar-16,Other,2
+21-Mar-16,Chrome OS,1
+21-Mar-16,Blackberry,1
+22-Mar-16,Microsoft Windows,1221
+22-Mar-16,Google Android,537
+22-Mar-16,Apple Macintosh,518
+22-Mar-16,Apple iOS,487
+22-Mar-16,GNU/Linux,197
+22-Mar-16,Blackberry,5
+22-Mar-16,Microsoft Windows Phone/Mobile,4
+22-Mar-16,Other,4
+22-Mar-16,Chrome OS,3
+22-Mar-16,Unspecified,2
+23-Mar-16,Microsoft Windows,919
+23-Mar-16,Apple iOS,698
+23-Mar-16,Google Android,463
+23-Mar-16,Apple Macintosh,367
+23-Mar-16,GNU/Linux,118
+23-Mar-16,Microsoft Windows Phone/Mobile,10
+23-Mar-16,Blackberry,9
+23-Mar-16,Other,4
+23-Mar-16,Chrome OS,3
+23-Mar-16,Symbian,1
+24-Mar-16,Microsoft Windows,501
+24-Mar-16,Apple iOS,313
+24-Mar-16,Google Android,197
+24-Mar-16,Apple Macintosh,182
+24-Mar-16,GNU/Linux,87
+24-Mar-16,Chrome OS,3
+24-Mar-16,Microsoft Windows Phone/Mobile,3
+24-Mar-16,Other,3
+24-Mar-16,Blackberry,2
+24-Mar-16,UNIX,1
+25-Mar-16,Microsoft Windows,246
+25-Mar-16,Apple iOS,141
+25-Mar-16,Google Android,137
+25-Mar-16,GNU/Linux,113
+25-Mar-16,Apple Macintosh,91
+25-Mar-16,Chrome OS,2
+25-Mar-16,Microsoft Windows Phone/Mobile,2
+25-Mar-16,Other,2
+25-Mar-16,Unspecified,2
+25-Mar-16,Blackberry,1
+26-Mar-16,Microsoft Windows,189
+26-Mar-16,GNU/Linux,188
+26-Mar-16,Google Android,180
+26-Mar-16,Apple iOS,132
+26-Mar-16,Apple Macintosh,81
+26-Mar-16,Chrome OS,6
+26-Mar-16,Blackberry,2
+26-Mar-16,Other,2
+26-Mar-16,Microsoft Windows Phone/Mobile,1
+26-Mar-16,Unspecified,1
+27-Mar-16,Microsoft Windows,167
+27-Mar-16,Apple iOS,115
+27-Mar-16,GNU/Linux,93
+27-Mar-16,Google Android,85
+27-Mar-16,Apple Macintosh,78
+27-Mar-16,Chrome OS,6
+27-Mar-16,Microsoft Windows Phone/Mobile,2
+27-Mar-16,Other,2
+27-Mar-16,Blackberry,1
+28-Mar-16,Microsoft Windows,554
+28-Mar-16,Apple Macintosh,243
+28-Mar-16,GNU/Linux,194
+28-Mar-16,Google Android,188
+28-Mar-16,Apple iOS,161
+28-Mar-16,Microsoft Windows Phone/Mobile,4
+28-Mar-16,Chrome OS,3
+28-Mar-16,Other,2
+28-Mar-16,Nokia,1
+28-Mar-16,UNIX,1
+29-Mar-16,Microsoft Windows,593
+29-Mar-16,Apple Macintosh,242
+29-Mar-16,Google Android,181
+29-Mar-16,GNU/Linux,179
+29-Mar-16,Apple iOS,173
+29-Mar-16,Microsoft Windows Phone/Mobile,5
+29-Mar-16,Chrome OS,2
+29-Mar-16,Blackberry,1
+29-Mar-16,Other,1
+29-Mar-16,Unspecified,1
+30-Mar-16,Microsoft Windows,619
+30-Mar-16,Apple iOS,258
+30-Mar-16,Apple Macintosh,234
+30-Mar-16,Google Android,128
+30-Mar-16,GNU/Linux,82
+30-Mar-16,Blackberry,3
+30-Mar-16,Other,3
+30-Mar-16,Chrome OS,2
+30-Mar-16,Microsoft Windows Phone/Mobile,2
+31-Mar-16,Microsoft Windows,470
+31-Mar-16,Apple Macintosh,210
+31-Mar-16,Apple iOS,194
+31-Mar-16,Google Android,111
+31-Mar-16,GNU/Linux,42
+31-Mar-16,Blackberry,3
+31-Mar-16,Microsoft Windows Phone/Mobile,2
+31-Mar-16,Other,2
+31-Mar-16,Nokia,1
+31-Mar-16,Chrome OS,1
+1-Apr-16,Microsoft Windows,623
+1-Apr-16,Apple iOS,264
+1-Apr-16,Apple Macintosh,200
+1-Apr-16,Google Android,151
+1-Apr-16,GNU/Linux,46
+1-Apr-16,Microsoft Windows Phone/Mobile,8
+1-Apr-16,Nokia,4
+1-Apr-16,Blackberry,3
+1-Apr-16,Other,3
+1-Apr-16,Chrome OS,2
+2-Apr-16,Microsoft Windows,170
+2-Apr-16,Apple iOS,157
+2-Apr-16,Google Android,80
+2-Apr-16,Apple Macintosh,54
+2-Apr-16,GNU/Linux,12
+2-Apr-16,Microsoft Windows Phone/Mobile,4
+2-Apr-16,Chrome OS,3
+2-Apr-16,Other,2
+2-Apr-16,Nokia,1
+2-Apr-16,Symbian,1
+3-Apr-16,Microsoft Windows,189
+3-Apr-16,Apple iOS,104
+3-Apr-16,Apple Macintosh,69
+3-Apr-16,Google Android,67
+3-Apr-16,GNU/Linux,15
+3-Apr-16,Chrome OS,1
+3-Apr-16,Microsoft Windows Phone/Mobile,1
+4-Apr-16,Microsoft Windows,580
+4-Apr-16,Apple Macintosh,206
+4-Apr-16,Apple iOS,137
+4-Apr-16,Google Android,54
+4-Apr-16,GNU/Linux,21
+4-Apr-16,Chrome OS,3
+4-Apr-16,Other,2
+4-Apr-16,Nokia,1
+4-Apr-16,Symbian,1
+4-Apr-16,Microsoft Windows Phone/Mobile,1
+5-Apr-16,Microsoft Windows,401
+5-Apr-16,Apple Macintosh,162
+5-Apr-16,Apple iOS,150
+5-Apr-16,Google Android,102
+5-Apr-16,GNU/Linux,32
+5-Apr-16,Microsoft Windows Phone/Mobile,2
+5-Apr-16,Other,2
+5-Apr-16,Chrome OS,1
+5-Apr-16,Blackberry,1
+6-Apr-16,Microsoft Windows,670
+6-Apr-16,Apple iOS,289
+6-Apr-16,Apple Macintosh,217
+6-Apr-16,Google Android,128
+6-Apr-16,GNU/Linux,38
+6-Apr-16,Microsoft Windows Phone/Mobile,8
+6-Apr-16,Blackberry,2
+6-Apr-16,Chrome OS,1
+6-Apr-16,Symbian,1
+6-Apr-16,Other,1
+7-Apr-16,Microsoft Windows,411
+7-Apr-16,Apple iOS,170
+7-Apr-16,Apple Macintosh,153
+7-Apr-16,Google Android,116
+7-Apr-16,GNU/Linux,33
+7-Apr-16,Microsoft Windows Phone/Mobile,3
+7-Apr-16,Chrome OS,2
+7-Apr-16,Nokia,1
+7-Apr-16,Blackberry,1
+8-Apr-16,Microsoft Windows,317
+8-Apr-16,Apple Macintosh,130
+8-Apr-16,Apple iOS,118
+8-Apr-16,Google Android,55
+8-Apr-16,GNU/Linux,29
+8-Apr-16,Other,2
+8-Apr-16,Chrome OS,1
+9-Apr-16,Microsoft Windows,154
+9-Apr-16,Apple iOS,103
+9-Apr-16,Google Android,57
+9-Apr-16,Apple Macintosh,34
+9-Apr-16,GNU/Linux,5
+9-Apr-16,Chrome OS,2
+9-Apr-16,Blackberry,2
+9-Apr-16,Other,1
+10-Apr-16,Microsoft Windows,163
+10-Apr-16,Apple iOS,107
+10-Apr-16,Apple Macintosh,73
+10-Apr-16,Google Android,48
+10-Apr-16,GNU/Linux,13
+10-Apr-16,Chrome OS,3
+10-Apr-16,Nokia,1
+10-Apr-16,Microsoft Windows Phone/Mobile,1
+10-Apr-16,Unspecified,1
+11-Apr-16,Microsoft Windows,476
+11-Apr-16,Apple Macintosh,203
+11-Apr-16,Apple iOS,136
+11-Apr-16,Google Android,91
+11-Apr-16,GNU/Linux,39
+11-Apr-16,Blackberry,2
+11-Apr-16,Other,2
+11-Apr-16,Symbian,1
+12-Apr-16,Microsoft Windows,572
+12-Apr-16,Apple iOS,269
+12-Apr-16,Apple Macintosh,227
+12-Apr-16,Google Android,198
+12-Apr-16,GNU/Linux,46
+12-Apr-16,Blackberry,3
+12-Apr-16,Chrome OS,2
+12-Apr-16,Nokia,1
+12-Apr-16,Microsoft Windows Phone/Mobile,1
+13-Apr-16,Microsoft Windows,1374
+13-Apr-16,Apple iOS,540
+13-Apr-16,Google Android,457
+13-Apr-16,Apple Macintosh,450
+13-Apr-16,GNU/Linux,131
+13-Apr-16,Chrome OS,8
+13-Apr-16,Microsoft Windows Phone/Mobile,7
+13-Apr-16,Blackberry,4
+13-Apr-16,Symbian,3
+13-Apr-16,Nokia,2
+14-Apr-16,Microsoft Windows,1063
+14-Apr-16,Apple iOS,400
+14-Apr-16,Apple Macintosh,356
+14-Apr-16,Google Android,264
+14-Apr-16,GNU/Linux,85
+14-Apr-16,Microsoft Windows Phone/Mobile,6
+14-Apr-16,Blackberry,5
+14-Apr-16,Nokia,2
+14-Apr-16,Samsung,1
+15-Apr-16,Microsoft Windows,397
+15-Apr-16,Apple iOS,190
+15-Apr-16,Apple Macintosh,172
+15-Apr-16,Google Android,112
+15-Apr-16,GNU/Linux,33
+15-Apr-16,Chrome OS,3
+15-Apr-16,UNIX,1
+15-Apr-16,Microsoft Windows Phone/Mobile,1
+15-Apr-16,Blackberry,1
+15-Apr-16,Other,1
+16-Apr-16,Apple iOS,177
+16-Apr-16,Microsoft Windows,144
+16-Apr-16,Apple Macintosh,73
+16-Apr-16,Google Android,64
+16-Apr-16,GNU/Linux,18
+16-Apr-16,Chrome OS,1
+16-Apr-16,Microsoft Windows Phone/Mobile,1
+16-Apr-16,Blackberry,1
+17-Apr-16,Microsoft Windows,175
+17-Apr-16,Apple iOS,146
+17-Apr-16,Apple Macintosh,76
+17-Apr-16,Google Android,72
+17-Apr-16,GNU/Linux,25
+17-Apr-16,Blackberry,4
+17-Apr-16,Nokia,1
+17-Apr-16,UNIX,1
+18-Apr-16,Microsoft Windows,440
+18-Apr-16,Apple Macintosh,167
+18-Apr-16,Apple iOS,121
+18-Apr-16,Google Android,76
+18-Apr-16,GNU/Linux,44
+18-Apr-16,Chrome OS,3
+18-Apr-16,Blackberry,2
+18-Apr-16,UNIX,1
+18-Apr-16,Other,1
+19-Apr-16,Microsoft Windows,853
+19-Apr-16,Apple iOS,843
+19-Apr-16,Google Android,576
+19-Apr-16,Apple Macintosh,354
+19-Apr-16,GNU/Linux,56
+19-Apr-16,Microsoft Windows Phone/Mobile,17
+19-Apr-16,Blackberry,8
+19-Apr-16,Chrome OS,2
+19-Apr-16,Nokia,1
+19-Apr-16,Symbian,1
+20-Apr-16,Microsoft Windows,747
+20-Apr-16,Apple iOS,576
+20-Apr-16,Google Android,331
+20-Apr-16,Apple Macintosh,235
+20-Apr-16,GNU/Linux,41
+20-Apr-16,Microsoft Windows Phone/Mobile,7
+20-Apr-16,Blackberry,5
+20-Apr-16,Chrome OS,3
+20-Apr-16,Other,1
+21-Apr-16,Microsoft Windows,554
+21-Apr-16,Apple Macintosh,213
+21-Apr-16,Apple iOS,172
+21-Apr-16,Google Android,136
+21-Apr-16,GNU/Linux,26
+21-Apr-16,Microsoft Windows Phone/Mobile,3
+21-Apr-16,Chrome OS,1
+21-Apr-16,Blackberry,1
+21-Apr-16,Other,1
+22-Apr-16,Microsoft Windows,457
+22-Apr-16,Apple Macintosh,172
+22-Apr-16,Apple iOS,133
+22-Apr-16,Google Android,95
+22-Apr-16,GNU/Linux,36
+22-Apr-16,Microsoft Windows Phone/Mobile,2
+22-Apr-16,UNIX,1
+23-Apr-16,Microsoft Windows,176
+23-Apr-16,Google Android,145
+23-Apr-16,Apple iOS,145
+23-Apr-16,Apple Macintosh,56
+23-Apr-16,GNU/Linux,41
+23-Apr-16,Microsoft Windows Phone/Mobile,5
+23-Apr-16,Blackberry,1
+23-Apr-16,Unspecified,1
+24-Apr-16,Microsoft Windows,268
+24-Apr-16,Google Android,191
+24-Apr-16,Apple iOS,168
+24-Apr-16,Apple Macintosh,92
+24-Apr-16,GNU/Linux,64
+24-Apr-16,Chrome OS,3
+24-Apr-16,Microsoft Windows Phone/Mobile,2
+24-Apr-16,Nokia,1
+24-Apr-16,Symbian,1
+24-Apr-16,Blackberry,1
+25-Apr-16,Microsoft Windows,503
+25-Apr-16,Apple iOS,199
+25-Apr-16,Apple Macintosh,191
+25-Apr-16,Google Android,126
+25-Apr-16,GNU/Linux,36
+25-Apr-16,Nokia,4
+25-Apr-16,Microsoft Windows Phone/Mobile,2
+25-Apr-16,Chrome OS,1
+25-Apr-16,Blackberry,1
+26-Apr-16,Microsoft Windows,457
+26-Apr-16,Apple iOS,193
+26-Apr-16,Apple Macintosh,167
+26-Apr-16,Google Android,123
+26-Apr-16,GNU/Linux,32
+26-Apr-16,Chrome OS,3
+26-Apr-16,Microsoft Windows Phone/Mobile,2
+26-Apr-16,Nokia,1
+26-Apr-16,Blackberry,1
+26-Apr-16,Other,1
+27-Apr-16,Microsoft Windows,573
+27-Apr-16,Apple iOS,299
+27-Apr-16,Apple Macintosh,239
+27-Apr-16,Google Android,164
+27-Apr-16,GNU/Linux,30
+27-Apr-16,Blackberry,5
+27-Apr-16,Chrome OS,2
+27-Apr-16,Microsoft Windows Phone/Mobile,2
+27-Apr-16,Nokia,1
+27-Apr-16,UNIX,1
+28-Apr-16,Microsoft Windows,532
+28-Apr-16,Apple Macintosh,187
+28-Apr-16,Apple iOS,165
+28-Apr-16,Google Android,142
+28-Apr-16,GNU/Linux,33
+28-Apr-16,Chrome OS,4
+28-Apr-16,Blackberry,2
+28-Apr-16,UNIX,1
+28-Apr-16,Microsoft Windows Phone/Mobile,1
+29-Apr-16,Microsoft Windows,589
+29-Apr-16,Apple iOS,297
+29-Apr-16,Apple Macintosh,218
+29-Apr-16,Google Android,190
+29-Apr-16,GNU/Linux,45
+29-Apr-16,Microsoft Windows Phone/Mobile,3
+29-Apr-16,Chrome OS,2
+29-Apr-16,Nokia,1
+29-Apr-16,Other,1
+30-Apr-16,Apple iOS,242
+30-Apr-16,Microsoft Windows,200
+30-Apr-16,Google Android,127
+30-Apr-16,Apple Macintosh,76
+30-Apr-16,GNU/Linux,23
+30-Apr-16,Nokia,3
+30-Apr-16,Chrome OS,1
+30-Apr-16,Microsoft Windows Phone/Mobile,1
+1-May-16,Microsoft Windows,173
+1-May-16,Apple iOS,126
+1-May-16,Apple Macintosh,82
+1-May-16,Google Android,68
+1-May-16,GNU/Linux,13
+1-May-16,Chrome OS,2
+1-May-16,Microsoft Windows Phone/Mobile,2
+2-May-16,Microsoft Windows,1169
+2-May-16,Apple Macintosh,507
+2-May-16,Apple iOS,470
+2-May-16,Google Android,347
+2-May-16,GNU/Linux,123
+2-May-16,Microsoft Windows Phone/Mobile,13
+2-May-16,Blackberry,5
+2-May-16,Chrome OS,3
+2-May-16,Other,1
+2-May-16,Unspecified,1
+3-May-16,Microsoft Windows,690
+3-May-16,Google Android,263
+3-May-16,Apple Macintosh,252
+3-May-16,Apple iOS,247
+3-May-16,GNU/Linux,78
+3-May-16,Unspecified,6
+3-May-16,Chrome OS,3
+3-May-16,Nokia,2
+3-May-16,Microsoft Windows Phone/Mobile,2
+3-May-16,Blackberry,1
+4-May-16,Microsoft Windows,713
+4-May-16,Apple iOS,292
+4-May-16,Apple Macintosh,271
+4-May-16,Google Android,148
+4-May-16,GNU/Linux,50
+4-May-16,Microsoft Windows Phone/Mobile,6
+4-May-16,Blackberry,5
+4-May-16,Chrome OS,3
+4-May-16,Unspecified,1
+5-May-16,Microsoft Windows,489
+5-May-16,Apple iOS,180
+5-May-16,Apple Macintosh,138
+5-May-16,Google Android,79
+5-May-16,GNU/Linux,39
+5-May-16,Nokia,2
+5-May-16,Microsoft Windows Phone/Mobile,1
+5-May-16,Blackberry,1
+5-May-16,Unspecified,1
+6-May-16,Microsoft Windows,370
+6-May-16,Apple iOS,203
+6-May-16,Apple Macintosh,136
+6-May-16,Google Android,86
+6-May-16,GNU/Linux,24
+6-May-16,Blackberry,2
+6-May-16,Chrome OS,1
+6-May-16,Microsoft Windows Phone/Mobile,1
+7-May-16,Apple iOS,164
+7-May-16,Microsoft Windows,148
+7-May-16,Google Android,69
+7-May-16,Apple Macintosh,48
+7-May-16,GNU/Linux,15
+7-May-16,Nokia,1
+7-May-16,Chrome OS,1
+7-May-16,Blackberry,1
+8-May-16,Microsoft Windows,162
+8-May-16,Apple iOS,141
+8-May-16,Google Android,53
+8-May-16,Apple Macintosh,48
+8-May-16,GNU/Linux,18
+8-May-16,Nokia,1
+9-May-16,Microsoft Windows,501
+9-May-16,Apple Macintosh,200
+9-May-16,Apple iOS,159
+9-May-16,Google Android,72
+9-May-16,GNU/Linux,28
+9-May-16,Microsoft Windows Phone/Mobile,6
+9-May-16,Blackberry,2
+9-May-16,Chrome OS,1
+10-May-16,Microsoft Windows,603
+10-May-16,Apple Macintosh,258
+10-May-16,Apple iOS,257
+10-May-16,Google Android,141
+10-May-16,GNU/Linux,55
+10-May-16,Microsoft Windows Phone/Mobile,4
+10-May-16,Chrome OS,3
+10-May-16,Nokia,1
+10-May-16,Blackberry,1
+10-May-16,Other,1
+11-May-16,Apple iOS,1474
+11-May-16,Microsoft Windows,1332
+11-May-16,Google Android,861
+11-May-16,Apple Macintosh,579
+11-May-16,GNU/Linux,81
+11-May-16,Blackberry,21
+11-May-16,Microsoft Windows Phone/Mobile,19
+11-May-16,Chrome OS,3
+11-May-16,Nokia,2
+11-May-16,UNIX,1
+12-May-16,Apple iOS,1098
+12-May-16,Microsoft Windows,961
+12-May-16,Google Android,696
+12-May-16,Apple Macintosh,329
+12-May-16,GNU/Linux,93
+12-May-16,Microsoft Windows Phone/Mobile,21
+12-May-16,Blackberry,9
+12-May-16,Chrome OS,5
+12-May-16,Nokia,4
+12-May-16,Symbian,1
+13-May-16,Microsoft Windows,486
+13-May-16,Apple iOS,225
+13-May-16,Apple Macintosh,185
+13-May-16,Google Android,164
+13-May-16,GNU/Linux,28
+13-May-16,Microsoft Windows Phone/Mobile,4
+13-May-16,Chrome OS,2
+13-May-16,Blackberry,1
+14-May-16,Apple iOS,143
+14-May-16,Microsoft Windows,141
+14-May-16,Google Android,111
+14-May-16,Apple Macintosh,53
+14-May-16,GNU/Linux,18
+14-May-16,Chrome OS,1
+14-May-16,Microsoft Windows Phone/Mobile,1
+14-May-16,Blackberry,1
+14-May-16,Other,1
+15-May-16,Microsoft Windows,177
+15-May-16,Apple iOS,118
+15-May-16,Google Android,102
+15-May-16,Apple Macintosh,65
+15-May-16,GNU/Linux,31
+15-May-16,Microsoft Windows Phone/Mobile,2
+15-May-16,Chrome OS,1
+15-May-16,UNIX,1
+15-May-16,Blackberry,1
+16-May-16,Microsoft Windows,623
+16-May-16,Google Android,297
+16-May-16,Apple Macintosh,258
+16-May-16,Apple iOS,236
+16-May-16,GNU/Linux,73
+16-May-16,Microsoft Windows Phone/Mobile,6
+16-May-16,Other,4
+16-May-16,Chrome OS,3
+16-May-16,Blackberry,2
+16-May-16,UNIX,1
+17-May-16,Microsoft Windows,704
+17-May-16,Apple Macintosh,228
+17-May-16,Apple iOS,201
+17-May-16,Google Android,198
+17-May-16,GNU/Linux,92
+17-May-16,Microsoft Windows Phone/Mobile,5
+17-May-16,Chrome OS,4
+17-May-16,Blackberry,4
+17-May-16,Unspecified,1
+18-May-16,Microsoft Windows,859
+18-May-16,Apple Macintosh,314
+18-May-16,Apple iOS,287
+18-May-16,Google Android,164
+18-May-16,GNU/Linux,57
+18-May-16,Blackberry,6
+18-May-16,Microsoft Windows Phone/Mobile,5
+18-May-16,Chrome OS,4
+18-May-16,Nokia,2
+18-May-16,Symbian,1

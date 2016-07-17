@@ -1,0 +1,103 @@
+{
+      "name":"top-cities-realtime",
+      "totals":{
+
+      },
+      "meta":{
+         "name":"Top Cities (Live)",
+         "description":"Top cities for active onsite users."
+      },
+      "taken_at":"2016-04-27T12:48:04.813Z",
+      "query":{
+         "metrics":[
+            "rt:activeUsers"
+         ],
+         "sort":[
+            "-rt:activeUsers"
+         ],
+         "max-results":10000,
+         "dimensions":"rt:city"
+      },
+      "data":[
+         {
+            "city":"Columbus  [United States]",
+            "active_visitors":"1348.0"
+         },
+         {
+            "city":"Bangalore  [India]",
+            "active_visitors":"306.0"
+         },
+         {
+            "city":"Paris  [France]",
+            "active_visitors":"305.0"
+         },
+         {
+            "city":"London  [United Kingdom]",
+            "active_visitors":"266.0"
+         },
+         {
+            "city":"Mumbai  [India]",
+            "active_visitors":"201.0"
+         },
+         {
+            "city":"Singapore  [Singapore]",
+            "active_visitors":"192.0"
+         },
+         {
+            "city":"Pune  [India]",
+            "active_visitors":"167.0"
+         },
+         {
+            "city":"New York  [United States]",
+            "active_visitors":"166.0"
+         },
+         {
+            "city":"Las Vegas  [United States]",
+            "active_visitors":"146.0"
+         },
+         {
+            "city":"San Francisco  [United States]",
+            "active_visitors":"136.0"
+         },
+         {
+            "city":"Hyderabad  [India]",
+            "active_visitors":"130.0"
+         },
+         {
+            "city":"San Jose  [United States]",
+            "active_visitors":"121.0"
+         },
+         {
+            "city":"Tokyo  [Japan]",
+            "active_visitors":"121.0"
+         },
+         {
+            "city":"Seoul  [Korea-South]",
+            "active_visitors":"115.0"
+         },
+         {
+            "city":"Chennai  [India]",
+            "active_visitors":"113.0"
+         },
+         {
+            "city":"Austin  [United States]",
+            "active_visitors":"111.0"
+         },
+         {
+            "city":"Madrid  [Spain]",
+            "active_visitors":"106.0"
+         },
+         {
+            "city":"Berlin  [Germany]",
+            "active_visitors":"104.0"
+         },
+         {
+            "city":"Hong Kong  [Hong Kong]",
+            "active_visitors":"101.0"
+         },
+         {
+            "city":"Toronto  [Canada]",
+            "active_visitors":"99.0"
+         }
+      ]
+   }

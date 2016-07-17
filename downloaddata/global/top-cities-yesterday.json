@@ -1,0 +1,103 @@
+{
+	      "name":"top-cities-realtime",
+	      "totals":{
+
+	      },
+	      "meta":{
+	         "name":"Top Cities (Live)",
+	         "description":"Top cities for active onsite users."
+	      },
+	      "taken_at":"2016-04-27T12:48:04.813Z",
+	      "query":{
+	         "metrics":[
+	            "rt:activeUsers"
+	         ],
+	         "sort":[
+	            "-rt:activeUsers"
+	         ],
+	         "max-results":10000,
+	         "dimensions":"rt:city"
+	      },
+	      "data":[
+	         {
+	            "city":"Tokyo [Japan]",
+	            "active_visitors":"5373.0"
+	         },
+	         {
+	            "city":"Bangalore [India]",
+	            "active_visitors":"3914.0"
+	         },
+	         {
+	            "city":"Columbus [United States]",
+	            "active_visitors":"2491.0"
+	         },
+	         {
+	            "city":"London [United Kingdom]",
+	            "active_visitors":"2377.0"
+	         },
+	         {
+	            "city":"Mumbai [India]",
+	            "active_visitors":"1969.0"
+	         },
+	         {
+	            "city":"Singapore [Singapore]",
+	            "active_visitors":"1918.0"
+	         },
+	         {
+	            "city":"Seoul [Korea-South]",
+	            "active_visitors":"1900.0"
+	         },
+	         {
+	            "city":"Paris [France]",
+	            "active_visitors":"1848.0"
+	         },
+	         {
+	            "city":"Pune [India]",
+	            "active_visitors":"1676.0"
+	         },
+	         {
+	            "city":"New York [United States]",
+	            "active_visitors":"1670.0"
+	         },
+	         {
+	            "city":"Beijing [China]",
+	            "active_visitors":"1478.0"
+	         },
+	         {
+	            "city":"Sao Paulo [Brazil]",
+	            "active_visitors":"1467.0"
+	         },
+	         {
+	            "city":"Hyderabad [India]",
+	            "active_visitors":"1432.0"
+	         },
+	         {
+	            "city":"Moscow [Russian Federation]",
+	            "active_visitors":"1421.0"
+	         },
+	         {
+	            "city":"San Jose [United States]",
+	            "active_visitors":"1403.0"
+	         },
+	         {
+	            "city":"Hong Kong [Hong Kong]",
+	            "active_visitors":"1352.0"
+	         },
+	         {
+	            "city":"Madrid [Spain]",
+	            "active_visitors":"1313.0"
+	         },
+	         {
+	            "city":"Chicago [United States]",
+	            "active_visitors":"1275.0"
+	         },
+	         {
+	            "city":"Atlanta [United States]",
+	            "active_visitors":"1270.0"
+	         },
+	         {
+	            "city":"Kawasaki [Japan]",
+	            "active_visitors":"1182.0"
+	         }
+	      ]
+	   }

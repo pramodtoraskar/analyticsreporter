@@ -1,0 +1,103 @@
+{
+      "name":"top-cities-realtime",
+      "totals":{
+
+      },
+      "meta":{
+         "name":"Top Cities (Live)",
+         "description":"Top cities for active onsite users."
+      },
+      "taken_at":"2016-04-27T12:48:04.813Z",
+      "query":{
+         "metrics":[
+            "rt:activeUsers"
+         ],
+         "sort":[
+            "-rt:activeUsers"
+         ],
+         "max-results":10000,
+         "dimensions":"rt:city"
+      },
+      "data":[
+         {
+            "city":"Santiago  [Chile]",
+            "active_visitors":"35.0"
+         },
+         {
+            "city":"Singapore  [Singapore]",
+            "active_visitors":"22.0"
+         },
+         {
+            "city":"Bangalore  [India]",
+            "active_visitors":"21.0"
+         },
+         {
+            "city":"London  [United Kingdom]",
+            "active_visitors":"17.0"
+         },
+         {
+            "city":"Madrid  [Spain]",
+            "active_visitors":"16.0"
+         },
+         {
+            "city":"Lima  [Peru]",
+            "active_visitors":"15.0"
+         },
+         {
+            "city":"Bogota  [Colombia]",
+            "active_visitors":"15.0"
+         },
+         {
+            "city":"Ocoyoacac  [Mexico]",
+            "active_visitors":"14.0"
+         },
+         {
+            "city":"Dubai  [United Arab Emirates]",
+            "active_visitors":"14.0"
+         },
+         {
+            "city":"Tokyo  [Japan]",
+            "active_visitors":"12.0"
+         },
+         {
+            "city":"Virginia Beach  [United States]",
+            "active_visitors":"10.0"
+         },
+         {
+            "city":"Moscow  [Russian Federation]",
+            "active_visitors":"10.0"
+         },
+         {
+            "city":"Saint John  [Canada]",
+            "active_visitors":"10.0"
+         },
+         {
+            "city":"Buenos Aires  [Argentina]",
+            "active_visitors":"10.0"
+         },
+         {
+            "city":"Jakarta  [Indonesia]",
+            "active_visitors":"9.0"
+         },
+         {
+            "city":"Pune  [India]",
+            "active_visitors":"9.0"
+         },
+         {
+            "city":"Isola Vicentina  [Italy]",
+            "active_visitors":"9.0"
+         },
+         {
+            "city":"Milan  [Italy]",
+            "active_visitors":"9.0"
+         },
+         {
+            "city":"Reston  [United States]",
+            "active_visitors":"9.0"
+         },
+         {
+            "city":"Warsaw  [Poland]",
+            "active_visitors":"8.0"
+         }
+      ]
+   }

@@ -1,0 +1,103 @@
+{
+			      "name":"top-cities-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Famoes  [Portugal]",
+			            "active_visitors":"194.0"
+			         },
+			         {
+			            "city":"Sao Paulo  [Brazil]",
+			            "active_visitors":"176.0"
+			         },
+			         {
+			            "city":"Beijing  [China]",
+			            "active_visitors":"93.0"
+			         },
+			         {
+			            "city":"Rio De Janeiro  [Brazil]",
+			            "active_visitors":"92.0"
+			         },
+			         {
+			            "city":"Shanghai  [China]",
+			            "active_visitors":"79.0"
+			         },
+			         {
+			            "city":"Bangalore  [India]",
+			            "active_visitors":"63.0"
+			         },
+			         {
+			            "city":"London  [United Kingdom]",
+			            "active_visitors":"63.0"
+			         },
+			         {
+			            "city":"Tokyo  [Japan]",
+			            "active_visitors":"60.0"
+			         },
+			         {
+			            "city":"Mumbai  [India]",
+			            "active_visitors":"56.0"
+			         },
+			         {
+			            "city":"Buenos Aires  [Argentina]",
+			            "active_visitors":"46.0"
+			         },
+			         {
+			            "city":"New York  [United States]",
+			            "active_visitors":"38.0"
+			         },
+			         {
+			            "city":"Paris  [France]",
+			            "active_visitors":"37.0"
+			         },
+			         {
+			            "city":"Singapore  [Singapore]",
+			            "active_visitors":"37.0"
+			         },
+			         {
+			            "city":"Seoul  [Korea-South]",
+			            "active_visitors":"37.0"
+			         },
+			         {
+			            "city":"Guangzhou  [China]",
+			            "active_visitors":"36.0"
+			         },
+			         {
+			            "city":"Shenzhen  [China]",
+			            "active_visitors":"35.0"
+			         },
+			         {
+			            "city":"Manaus  [Brazil]",
+			            "active_visitors":"31.0"
+			         },
+			         {
+			            "city":"Brasilia  [Brazil]",
+			            "active_visitors":"30.0"
+			         },
+			         {
+			            "city":"Milan  [Italy]",
+			            "active_visitors":"29.0"
+			         },
+			         {
+			            "city":"Hong Kong  [Hong Kong]",
+			            "active_visitors":"29.0"
+			         }
+			      ]
+			   }

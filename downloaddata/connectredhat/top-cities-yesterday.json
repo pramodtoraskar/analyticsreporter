@@ -1,0 +1,103 @@
+{
+      "name":"top-cities-realtime",
+      "totals":{
+
+      },
+      "meta":{
+         "name":"Top Cities (Live)",
+         "description":"Top cities for active onsite users."
+      },
+      "taken_at":"2016-04-27T12:48:04.813Z",
+      "query":{
+         "metrics":[
+            "rt:activeUsers"
+         ],
+         "sort":[
+            "-rt:activeUsers"
+         ],
+         "max-results":10000,
+         "dimensions":"rt:city"
+      },
+      "data":[
+         {
+            "city":"Atlanta  [United States]",
+            "active_visitors":"260.0"
+         },
+         {
+            "city":"Stockholm  [Sweden]",
+            "active_visitors":"2.0"
+         },
+         {
+            "city":"Ijmuiden  [Netherlands]",
+            "active_visitors":"2.0"
+         },
+         {
+            "city":"Montreal  [Canada]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Changhua City  [Taiwan]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"San Jose  [United States]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Raleigh  [United States]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Clinton  [United States]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Incheon  [Korea-South]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Mountain View  [United States]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Kawasaki  [Japan]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Southborough  [United States]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Oberengstringen  [Switzerland]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Reading  [United Kingdom]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Noida  [India]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Pune  [India]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Jerusalem  [Israel]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Doha  [Qatar]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Medellin  [Colombia]",
+            "active_visitors":"1.0"
+         },
+         {
+            "city":"Lausanne  [Switzerland]",
+            "active_visitors":"1.0"
+         }
+      ]
+   }

@@ -1,0 +1,103 @@
+{
+			      "name":"top-cities-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Tokyo  [Japan]",
+			            "active_visitors":"827.0"
+			         },
+			         {
+			            "city":"Bangalore  [India]",
+			            "active_visitors":"445.0"
+			         },
+			         {
+			            "city":"Seoul  [Korea-South]",
+			            "active_visitors":"421.0"
+			         },
+			         {
+			            "city":"Beijing  [China]",
+			            "active_visitors":"385.0"
+			         },
+			         {
+			            "city":"London  [United Kingdom]",
+			            "active_visitors":"343.0"
+			         },
+			         {
+			            "city":"Singapore  [Singapore]",
+			            "active_visitors":"310.0"
+			         },
+			         {
+			            "city":"Raleigh  [United States]",
+			            "active_visitors":"306.0"
+			         },
+			         {
+			            "city":"Mumbai  [India]",
+			            "active_visitors":"267.0"
+			         },
+			         {
+			            "city":"San Jose  [United States]",
+			            "active_visitors":"235.0"
+			         },
+			         {
+			            "city":"Pune  [India]",
+			            "active_visitors":"229.0"
+			         },
+			         {
+			            "city":"New York  [United States]",
+			            "active_visitors":"226.0"
+			         },
+			         {
+			            "city":"Sao Paulo  [Brazil]",
+			            "active_visitors":"206.0"
+			         },
+			         {
+			            "city":"Chicago  [United States]",
+			            "active_visitors":"200.0"
+			         },
+			         {
+			            "city":"Rome  [Italy]",
+			            "active_visitors":"198.0"
+			         },
+			         {
+			            "city":"Milan  [Italy]",
+			            "active_visitors":"198.0"
+			         },
+			         {
+			            "city":"Moscow  [Russian Federation]",
+			            "active_visitors":"195.0"
+			         },
+			         {
+			            "city":"Portland  [United States]",
+			            "active_visitors":"193.0"
+			         },
+			         {
+			            "city":"Hyderabad  [India]",
+			            "active_visitors":"192.0"
+			         },
+			         {
+			            "city":"Madrid  [Spain]",
+			            "active_visitors":"189.0"
+			         },
+			         {
+			            "city":"Atlanta  [United States]",
+			            "active_visitors":"183.0"
+			         }
+			      ]
+			   }

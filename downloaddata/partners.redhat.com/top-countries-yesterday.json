@@ -1,0 +1,103 @@
+{
+			      "name":"top-countries-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities",
+			         "description":"Top countries for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T15:50:05.953Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:country"
+			      },
+			      "data":[
+			         {
+			            "country":"United States",
+			            "active_visitors":"76.0"
+			         },
+			         {
+			            "country":"India",
+			            "active_visitors":"63.0"
+			         },
+			         {
+			            "country":"Germany",
+			            "active_visitors":"46.0"
+			         },
+			         {
+			            "country":"Spain",
+			            "active_visitors":"39.0"
+			         },
+			         {
+			            "country":"United Kingdom",
+			            "active_visitors":"31.0"
+			         },
+			         {
+			            "country":"Japan",
+			            "active_visitors":"31.0"
+			         },
+			         {
+			            "country":"Brazil",
+			            "active_visitors":"24.0"
+			         },
+			         {
+			            "country":"Italy",
+			            "active_visitors":"23.0"
+			         },
+			         {
+			            "country":"China",
+			            "active_visitors":"17.0"
+			         },
+			         {
+			            "country":"Turkey",
+			            "active_visitors":"16.0"
+			         },
+			         {
+			            "country":"France",
+			            "active_visitors":"16.0"
+			         },
+			         {
+			            "country":"Poland",
+			            "active_visitors":"15.0"
+			         },
+			         {
+			            "country":"Viet Nam",
+			            "active_visitors":"14.0"
+			         },
+			         {
+			            "country":"Russian Federation",
+			            "active_visitors":"14.0"
+			         },
+			         {
+			            "country":"Singapore",
+			            "active_visitors":"13.0"
+			         },
+			         {
+			            "country":"Chile",
+			            "active_visitors":"13.0"
+			         },
+			         {
+			            "country":"Canada",
+			            "active_visitors":"11.0"
+			         },
+			         {
+			            "country":"Australia",
+			            "active_visitors":"11.0"
+			         },
+			         {
+			            "country":"Hong Kong",
+			            "active_visitors":"8.0"
+			         },
+			         {
+			            "country":"Indonesia",
+			            "active_visitors":"8.0"
+			         }
+			      ]
+			   }

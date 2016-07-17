@@ -1,0 +1,103 @@
+{
+      "name":"top-cities-realtime",
+      "totals":{
+
+      },
+      "meta":{
+         "name":"Top Cities (Live)",
+         "description":"Top cities for active onsite users."
+      },
+      "taken_at":"2016-04-27T12:48:04.813Z",
+      "query":{
+         "metrics":[
+            "rt:activeUsers"
+         ],
+         "sort":[
+            "-rt:activeUsers"
+         ],
+         "max-results":10000,
+         "dimensions":"rt:city"
+      },
+      "data":[
+         {
+            "city":"Bangalore  [India]",
+            "active_visitors":"728.0"
+         },
+         {
+            "city":"Mumbai  [India]",
+            "active_visitors":"451.0"
+         },
+         {
+            "city":"London  [United Kingdom]",
+            "active_visitors":"367.0"
+         },
+         {
+            "city":"Paris  [France]",
+            "active_visitors":"340.0"
+         },
+         {
+            "city":"Hyderabad  [India]",
+            "active_visitors":"323.0"
+         },
+         {
+            "city":"Sao Paulo  [Brazil]",
+            "active_visitors":"317.0"
+         },
+         {
+            "city":"Seoul  [Korea-South]",
+            "active_visitors":"315.0"
+         },
+         {
+            "city":"Chennai  [India]",
+            "active_visitors":"304.0"
+         },
+         {
+            "city":"Pune  [India]",
+            "active_visitors":"304.0"
+         },
+         {
+            "city":"Madrid  [Spain]",
+            "active_visitors":"303.0"
+         },
+         {
+            "city":"Singapore  [Singapore]",
+            "active_visitors":"290.0"
+         },
+         {
+            "city":"Tokyo  [Japan]",
+            "active_visitors":"265.0"
+         },
+         {
+            "city":"Warsaw  [Poland]",
+            "active_visitors":"258.0"
+         },
+         {
+            "city":"Beijing  [China]",
+            "active_visitors":"249.0"
+         },
+         {
+            "city":"Moscow  [Russian Federation]",
+            "active_visitors":"237.0"
+         },
+         {
+            "city":"Hong Kong  [Hong Kong]",
+            "active_visitors":"237.0"
+         },
+         {
+            "city":"Milan  [Italy]",
+            "active_visitors":"234.0"
+         },
+         {
+            "city":"New York  [United States]",
+            "active_visitors":"227.0"
+         },
+         {
+            "city":"Frankfurt Am Main  [Germany]",
+            "active_visitors":"213.0"
+         },
+         {
+            "city":"Bogota  [Colombia]",
+            "active_visitors":"202.0"
+         }
+      ]
+   }

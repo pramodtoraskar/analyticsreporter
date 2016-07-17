@@ -1,0 +1,103 @@
+{
+			      "name":"top-cities-realtime",
+			      "totals":{
+
+			      },
+			      "meta":{
+			         "name":"Top Cities (Live)",
+			         "description":"Top cities for active onsite users."
+			      },
+			      "taken_at":"2016-04-27T12:48:04.813Z",
+			      "query":{
+			         "metrics":[
+			            "rt:activeUsers"
+			         ],
+			         "sort":[
+			            "-rt:activeUsers"
+			         ],
+			         "max-results":10000,
+			         "dimensions":"rt:city"
+			      },
+			      "data":[
+			         {
+			            "city":"Singapore  [Singapore]",
+			            "active_visitors":"24.0"
+			         },
+			         {
+			            "city":"London  [United Kingdom]",
+			            "active_visitors":"22.0"
+			         },
+			         {
+			            "city":"Bangalore  [India]",
+			            "active_visitors":"19.0"
+			         },
+			         {
+			            "city":"Ashburn  [United States]",
+			            "active_visitors":"17.0"
+			         },
+			         {
+			            "city":"New York  [United States]",
+			            "active_visitors":"16.0"
+			         },
+			         {
+			            "city":"Ocoyoacac  [Mexico]",
+			            "active_visitors":"14.0"
+			         },
+			         {
+			            "city":"Sydney  [Australia]",
+			            "active_visitors":"14.0"
+			         },
+			         {
+			            "city":"Dallas  [United States]",
+			            "active_visitors":"13.0"
+			         },
+			         {
+			            "city":"Boston  [United States]",
+			            "active_visitors":"11.0"
+			         },
+			         {
+			            "city":"Chicago  [United States]",
+			            "active_visitors":"11.0"
+			         },
+			         {
+			            "city":"Paris  [France]",
+			            "active_visitors":"10.0"
+			         },
+			         {
+			            "city":"Sunnyvale  [United States]",
+			            "active_visitors":"10.0"
+			         },
+			         {
+			            "city":"Atlanta  [United States]",
+			            "active_visitors":"10.0"
+			         },
+			         {
+			            "city":"Hoboken  [United States]",
+			            "active_visitors":"10.0"
+			         },
+			         {
+			            "city":"San Jose  [United States]",
+			            "active_visitors":"9.0"
+			         },
+			         {
+			            "city":"Raleigh  [United States]",
+			            "active_visitors":"9.0"
+			         },
+			         {
+			            "city":"Washington  [United States]",
+			            "active_visitors":"9.0"
+			         },
+			         {
+			            "city":"San Francisco  [United States]",
+			            "active_visitors":"9.0"
+			         },
+			         {
+			            "city":"Antwerp  [Belgium]",
+			            "active_visitors":"9.0"
+			         },
+			         {
+			            "city":"Buenos Aires  [Argentina]",
+			            "active_visitors":"9.0"
+			         }
+			      ]
+			   }
